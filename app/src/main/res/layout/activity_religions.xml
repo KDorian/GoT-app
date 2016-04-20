@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_woody"
+    android:orientation="vertical"
+    tools:context="com.example.android.gotapp.Religions">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/papierpng"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_text_religions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="@string/title_religions"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_large" />
+
+        <TextView
+            android:id="@+id/story_text_religions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="@string/story_religions"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_small" />
+
+    </LinearLayout>
+
+    <!-- Button for Religions of Essos -->
+    <Button
+        android:id="@+id/relEssos"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/papierpng"
+        android:onClick="relEssos"
+        android:text="@string/religions_essos"
+        android:textAllCaps="false"
+        android:textSize="@dimen/text_size_medium" />
+
+    <!-- Button for Religions of Westeros -->
+    <Button
+        android:id="@+id/relWesteros"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/papierpng"
+        android:onClick="relWesteros"
+        android:text="@string/religions_westeros"
+        android:textAllCaps="false"
+        android:textSize="@dimen/text_size_medium" />
+
+
+</LinearLayout>

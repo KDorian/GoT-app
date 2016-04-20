@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.gotapp.Organisations">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_woody"
+        android:orientation="vertical">
+
+        <!-- Brotherhood without Banners Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_brotherhood"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="brotherhood"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_brotherhood_without_banners" />
+
+            <TextView
+                android:id="@+id/text_brotherhood"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/organisations_brotherhood"
+                android:textColor="#000000"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+
+        <!-- Iron Bank Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_ironBank"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="ironBank"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_iron_bank" />
+
+            <TextView
+                android:id="@+id/text_ironBank"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/organisations_iron_bank"
+                android:textColor="#000000"
+                android:textSize="32sp" />
+
+        </LinearLayout>
+
+        <!-- Kingsguard Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_kingsguard"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="kingsguard"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_kingsguard" />
+
+            <TextView
+                android:id="@+id/text_kingsguard"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/organisations_kingsguard"
+                android:textColor="#000000"
+                android:textSize="32sp" />
+
+        </LinearLayout>
+
+        <!-- Night's Watch Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_nights_watch"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="nightsWatch"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_nights_watch" />
+
+            <TextView
+                android:id="@+id/text_nightswatch"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/organisations_nightswatch"
+                android:textColor="#000000"
+                android:textSize="25sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

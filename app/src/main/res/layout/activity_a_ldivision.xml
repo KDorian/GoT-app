@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.gotapp.aLDivision">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_woody"
+        android:orientation="vertical">
+
+        <!-- Arryn Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_arryn"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_arryn"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_arryn" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_arryn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_arryn"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium"
+                />
+
+        </LinearLayout>
+
+        <!-- Baratheon Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_baratheon"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_baratheon"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_baratheon" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_baratheon"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_baratheon"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Bolton Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_bolton"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_bolton"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_bolton" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_bolton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_bolton"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Frey Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_frey"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_frey"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_frey" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_frey"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_frey"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Greyjoy Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_greyjoy"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_greyjoy"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_greyjoy" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_greyjoy"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_greyjoy"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Lannister Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imagebutton_great_houses_a_l_lannister"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="great_houses_a_l_lannister"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_lannister" />
+
+            <TextView
+                android:id="@+id/textview_great_houses_a_l_lannister"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_a_l_lannister"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+

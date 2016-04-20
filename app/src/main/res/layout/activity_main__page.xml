@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_woody"
+    tools:context="com.example.android.gotapp.Main_Page">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- GoT image -->
+        <ImageView
+            android:id="@+id/imageview_main_page_got"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:padding="16dp"
+            android:src="@drawable/main_page_image" />
+
+        <!-- Button for Great houses A - L -->
+        <Button
+            android:id="@+id/a_L_Division"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:textSize="@dimen/text_size_medium"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="aLDivision"
+            android:text="@string/mp_great_houses_a_l"
+            android:textAllCaps="false"
+            android:focusableInTouchMode="true"/>
+
+        <!-- Button for Great houses M - T -->
+        <Button
+            android:id="@+id/m_T_Division"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:textSize="@dimen/text_size_medium"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="mTDivision"
+            android:text="@string/mp_great_houses_m_t"
+            android:textAllCaps="false"/>
+
+        <!-- Button for Organisations -->
+        <Button
+            android:id="@+id/organisations"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:textSize="@dimen/text_size_medium"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="organisations"
+            android:text="@string/mp_organisations"
+            android:textAllCaps="false"/>
+
+        <!-- Button for Religions -->
+        <Button
+            android:id="@+id/religions"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:textSize="@dimen/text_size_medium"
+            android:background="@drawable/papierpng"
+            android:onClick="religions"
+            android:text="@string/mp_religions"
+            android:textAllCaps="false"/>
+
+        <!-- Button for Seasons -->
+        <Button
+            android:id="@+id/seasons"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:textSize="@dimen/text_size_medium"
+            android:background="@drawable/papierpng"
+            android:onClick="seasons"
+            android:text="@string/mp_seasons"
+            android:textAllCaps="false"/>
+
+    </LinearLayout>
+
+</ScrollView>

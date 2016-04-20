@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.gotapp.SeasonFirst"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_woody"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_text_seasonThird"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/papierpng"
+            android:padding="20dp"
+            android:text="@string/title_season_third"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_large" />
+
+        <ImageView
+            android:id="@+id/imageview_season_third"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/poster_season_3" />
+
+        <Button
+            android:id="@+id/se_03_plot"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_margin="8dp"
+            android:textSize="@dimen/text_size_medium"
+            android:background="@drawable/papierpng"
+            android:onClick="se03plot"
+            android:text="@string/season_03_plot"
+            android:textAllCaps="false"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Button for Seasons -->
+            <Button
+                android:id="@+id/se_03_ep_01"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep01"
+                android:text="@string/season_03_episode_01"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_02"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep02"
+                android:text="@string/season_03_episode_02"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_03"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep03"
+                android:text="@string/season_03_episode_03"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_04"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep04"
+                android:text="@string/season_03_episode_04"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_05"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep05"
+                android:text="@string/season_03_episode_05"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Button for Seasons -->
+            <Button
+                android:id="@+id/se_03_ep_06"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep06"
+                android:text="@string/season_03_episode_06"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_07"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep07"
+                android:text="@string/season_03_episode_07"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_08"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep08"
+                android:text="@string/season_03_episode_08"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_09"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep09"
+                android:text="@string/season_03_episode_09"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/se_03_ep_10"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="55dp"
+                android:layout_margin="8dp"
+                android:textSize="@dimen/text_size_medium"
+                android:background="@drawable/papierpng"
+                android:onClick="se03ep10"
+                android:text="@string/season_03_episode_10"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal">-->
+            <!--&lt;!&ndash; Button for Seasons &ndash;&gt;-->
+            <!--<Button-->
+                <!--android:id="@+id/se_03_mp"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="55dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_margin="8dp"-->
+                <!--android:textSize="25sp"-->
+                <!--android:background="@drawable/papierpng"-->
+                <!--android:onClick="se03mp"-->
+                <!--android:text="Main Page"-->
+                <!--android:textAllCaps="false"/>-->
+
+            <!--<Button-->
+                <!--android:id="@+id/se_03_next"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="55dp"-->
+                <!--android:layout_margin="8dp"-->
+                <!--android:textSize="25sp"-->
+                <!--android:background="@drawable/papierpng"-->
+                <!--android:onClick="se03next"-->
+                <!--android:text="Next Season"-->
+                <!--android:textAllCaps="false"/>-->
+
+        <!--</LinearLayout>-->
+
+    </LinearLayout>
+
+</ScrollView>

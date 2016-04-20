@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.gotapp.mTDivision">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_woody"
+        android:orientation="vertical">
+        <!-- Martell Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_martell"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="martell"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_martell" />
+
+            <TextView
+                android:id="@+id/text_martell"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_m_t_martell"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium"/>
+
+        </LinearLayout>
+
+        <!-- Stark Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_stark"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="stark"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_stark" />
+
+            <TextView
+                android:id="@+id/text_stark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_m_t_stark"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Targaryen Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_targaryen"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="targaryen"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_targaryen" />
+
+            <TextView
+                android:id="@+id/text_targaryen"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_m_t_targaryen"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Tully Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_tully"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="tully"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_tully" />
+
+            <TextView
+                android:id="@+id/text_tully"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_m_t_tully"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+
+        <!-- Tyrell Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/papierpng"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/button_tyrell"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/papierpng"
+                android:onClick="tyrell"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/large_tyrell" />
+
+            <TextView
+                android:id="@+id/text_tyrell"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:gravity="center"
+                android:text="@string/great_houses_m_t_tyrell"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_medium" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

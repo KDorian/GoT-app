@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_woody"
+    android:orientation="vertical"
+    tools:context="com.example.android.gotapp.Religions">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_text_relEssos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/papierpng"
+            android:gravity="center"
+            android:padding="16dp"
+            android:text="@string/title_religions_essos"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_large" />
+
+
+        <!-- Button for Religions of Great Stallion -->
+        <Button
+            android:id="@+id/great_Stallion"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="greatStallion"
+            android:text="@string/religion_great_stallion"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for Religions of The Lord of Light -->
+        <Button
+            android:id="@+id/lord_Light"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="lordLight"
+            android:text="@string/religion_lord_light"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for Religions of The Many-Faced God of Death -->
+        <Button
+            android:id="@+id/many_Faced_God"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="manyFacedGod"
+            android:text="@string/religion_many_faced_god"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+    </LinearLayout>
+
+</ScrollView>

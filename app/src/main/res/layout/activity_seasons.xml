@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_woody"
+    tools:context="com.example.android.gotapp.Seasons">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Button for first Season -->
+        <Button
+            android:id="@+id/season_first"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonFirst"
+            android:text="@string/season_first"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for second Season -->
+        <Button
+            android:id="@+id/season_second"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonSecond"
+            android:text="@string/season_second"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for third Season -->
+        <Button
+            android:id="@+id/season_third"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonThird"
+            android:text="@string/season_third"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for fourth Season -->
+        <Button
+            android:id="@+id/season_fourth"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonFourth"
+            android:text="@string/season_fourth"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for fifth Season -->
+        <Button
+            android:id="@+id/season_fifth"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonFifth"
+            android:text="@string/season_fifth"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+        <!-- Button for sixth Season -->
+        <Button
+            android:id="@+id/season_sixth"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/papierpng"
+            android:onClick="seasonSixth"
+            android:text="@string/season_sixth"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_medium" />
+
+    </LinearLayout>
+
+</ScrollView>

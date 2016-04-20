@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.gotapp.Brotherhood">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/papierpng"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textview_title_organisation_brotherhood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="@string/title_organisation_brotherhood"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_medium" />
+
+        <ImageView
+            android:id="@+id/imageview_organisation_brotherhood"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/large_brotherhood_without_banners" />
+
+        <TextView
+            android:id="@+id/textview_story_organisation_brotherhood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="20dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:text="@string/story_organisation_brotherhood"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_small" />
+
+    </LinearLayout>
+
+</ScrollView>

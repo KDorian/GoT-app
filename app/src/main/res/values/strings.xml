@@ -1,0 +1,2321 @@
+<resources>
+    <string name="app_name">GoT App</string>
+    <string name="title_activity_house_arryn">HouseArryn</string>
+
+    <!-- Main Page Strings -->
+    <string name="mp_great_houses_a_l">Great Houses A - L</string>
+    <string name="mp_great_houses_m_t">Great Houses M - T</string>
+    <string name="mp_organisations">Organisations</string>
+    <string name="mp_religions">Religions</string>
+    <string name="mp_seasons">Seasons</string>
+
+    <!-- Great Houses A - L -->
+    <string name="great_houses_a_l_arryn">Arryn</string>
+    <string name="great_houses_a_l_baratheon">Baratheon</string>
+    <string name="great_houses_a_l_bolton">Bolton</string>
+    <string name="great_houses_a_l_frey">Frey</string>
+    <string name="great_houses_a_l_greyjoy">Greyjoy</string>
+    <string name="great_houses_a_l_lannister">Lannister</string>
+
+    <!-- House Arryn -->
+    <string name="title_house_arryn">House Arryn</string>
+    <string name="call_house_arryn">&#8220;As High As Honor&#8221;</string>
+    <string name="story_house_arryn">House Arryn is one of the Great Houses of Westeros. It has
+        ruled over the Vale of Arryn for millennia, originally as the Kings of Mountain and Vale
+        and more recently as Lords Paramount of the Vale and Wardens of the East under the
+        Targaryen kings and King Robert Baratheon. The nominal head of House Arryn is Robin Arryn,
+        the Lord of the Eyrie, with his mother Lady Lysa acting as Lady Regent until he reaches the
+        age of majority.</string>
+
+    <!-- House Baratheon -->
+    <string name="title_house_baratheon">House Baratheon</string>
+    <string name="call_house_baratheon">&#8220;Ours is the Fury&#8221;</string>
+    <string name="story_house_baratheon">House Baratheon of Storm&#8217;s End was one of the Great Houses
+        of Westeros, although also one of the youngest. It is the current royal house. \n\n
+        House Baratheon&#8217;s sigil is a black stag on a gold background and their house motto is
+        &#8221;Ours is the Fury&#8221;. When Robert ascended the Iron Throne, a gold crown was
+        added to the stag, denoting their status as the royal house. \n\n The ancestral Baratheon
+        stronghold is Storm&#8217;s End, but since becoming the royal house, they have also taken
+        possession of the old Targaryen island fortress of Dragonstone, while the King rules
+        from the city of King&#8217;s Landing, the capital of the Seven Kingdoms.</string>
+
+    <!-- House Bolton -->
+    <string name="title_house_bolton">House Bolton</string>
+    <string name="call_house_bolton">&#8220;Our Blades Are Sharp&#8221;</string>
+    <string name="story_house_bolton">House Bolton of the Dreadfort is the ruling house of the
+        North, having usurped their position from their former liege lords: House Stark. Their
+        original lands are in the northeast of the formerly-owned Stark territories. Their
+        stronghold is a castle called the Dreadfort and the head of the house is the Lord of
+        the Dreadfort. \n\n House Bolton is infamous for its centuries-old practice of flaying
+        their enemies alive, to the point that they use a flayed man as their House sigil.
+        The Boltons supposedly gave up this practice after bending the knee to House Stark,
+        and centuries later Lord Eddard Stark outlawed flaying in the North altogether,
+        but the Boltons continue the practice.</string>
+
+    <!-- House Frey -->
+    <string name="title_house_frey">House Frey</string>
+    <string name="call_house_frey">Those traitor&#8217;s don&#8217;t have a call.</string>
+    <string name="story_house_frey">House Frey is the current Great House of the Riverlands,
+        having gained their position for their treachery against their former liege lords,
+        House Tully, who were stripped of all their titles for their rebellion against the
+        Iron Throne. They are also now the Lords of Riverrun. Its current ruler is Lord Walder
+        Frey. \n\n Their castle is known as the Twins, for its two identical keeps on either side
+        of a river linked by a bridge, sometimes called the Stone Bridge. The Twins is one of the
+        primary crossings over the Green Fork of the Trident River, and tolls from bridge
+        crossings have made the Freys quite wealthy fairly quickly, elevating them from obscurity
+        six centuries ago to being one of the most powerful noble Houses in the Riverlands -
+        though they are looked down upon by older aristocratic families.</string>
+
+    <!-- House Greyjoy -->
+    <string name="title_house_greyjoy">House Greyjoy</string>
+    <string name="call_house_greyjoy">&#8220;We Do Not Sow&#8221;</string>
+    <string name="story_house_greyjoy">House Greyjoy is one of the Great Houses of Westeros. Their
+        lands are the Iron Islands off the west coast of the continent. They rule from their
+        castle Pyke from the island of the same name. The Iron Islands are harsh and bleak and
+        the Greyjoys have traditionally survived by raiding their neighbors. They have always had
+        plans to conquer the mainland. The head of the house is the Lord Reaper of Pyke. \n\n
+        House Greyjoy boasts descent from the Grey King, a legendary King of the Iron Islands
+        said to have ruled for a thousand years and taken a mermaid as wife. Like the vast
+        majority of ironborn, they worship the Drowned God.</string>
+
+    <!-- House Lannister -->
+    <string name="title_house_lannister">House Lannister</string>
+    <string name="call_house_lannister">&#8220;Hear me roar!&#8221;</string>
+    <string name="story_house_lannister">House Lannister of Casterly Rock is one of the Great
+        Houses of Westeros, one of its richest and most powerful families and oldest dynasties.
+        The major characters Jaime, Cersei, and Tyrion and the recurring characters Tywin, Kevan,
+        and Lancel are members of the house. Tywin is the head of House Lannister and Lord of
+        Casterly Rock. \n\n Their lands are in the far west of the continent. Their seat is
+        Casterly Rock, a massive rocky promontory overlooking the Sunset Sea which has had
+        habitations and fortifications built into it over the millennia. They are the Lords
+        Paramount of the Westerlands and Wardens of the West. House Lannister&#8217;s Heraldry consists
+        of a golden lion on a crimson background, and their House words are &#8220;Hear me
+        roar!&#8220;, which is rarely mentioned. Their unofficial motto, which is as well known
+        as the official one, is &#8220;A Lannister always pays his debts&#8220; - which is used
+        much more often and mostly in negative context, though it can also be used in the
+        original, literal sense.</string>
+
+    <!-- Great Houses M - T -->
+    <string name="great_houses_m_t_martell">Martell</string>
+    <string name="great_houses_m_t_stark">Stark</string>
+    <string name="great_houses_m_t_targaryen">Targaryen</string>
+    <string name="great_houses_m_t_tully">Tully</string>
+    <string name="great_houses_m_t_tyrell">Tyrell</string>
+
+    <!-- House Martell -->
+    <string name="title_house_martell">House Martell</string>
+    <string name="call_house_martell">&#8220;Unbowed, Unbent, Unbroken&#8221;</string>
+    <string name="story_house_martell">House Martell of Sunspear is one of the Great Houses of
+        Westeros. It rules the peninsula of Dorne in the far south of the continent from their
+        castle Sunspear. Though loyal to the Iron Throne, it has pursued a more isolated role
+        in wider political events since Robert&#8217;s Rebellion.</string>
+
+    <!-- House Stark -->
+    <string name="title_house_stark">House Stark</string>
+    <string name="call_house_stark">&#8220;Winter is Coming&#8221;</string>
+    <string name="story_house_stark">House Stark of Winterfell is an exiled Great House of
+        Westeros, ruling over the vast region known as the North from their seat in Winterfell.
+        It is by far one of the oldest lines of Westerosi nobility, claiming a line of descent
+        stretching back over eight thousand years. The head of the house was the Lord of
+        Winterfell. Before the Targaryen conquest, the leaders of House Stark ruled over
+        the region as the Kings in the North. \n\n Their rule in the North seemingly ended after
+        the events of the Red Wedding when House Frey and House Bolton betrayed them, and
+        Roose Bolton personally killed King Robb Stark. Both the North and Winterfell have since
+        been taken over by the Boltons but their hold has been jeopardized now that Sansa Stark
+        has escaped their clutches after learning that her brothers Bran and Rickon Stark
+        are still alive.</string>
+
+    <!-- House Targaryen -->
+    <string name="title_house_targaryen">House Targaryen</string>
+    <string name="call_house_targaryen">&#8220;Fire and Blood&#8221;</string>
+    <string name="story_house_targaryen">House Targaryen is a former Great House of Westeros and
+        was the ruling royal House of the Seven Kingdoms for three centuries, before it was deposed
+        during Robert&#8217;s Rebellion and House Baratheon replaced it as the new royal House. The few
+        surviving Targaryens fled into exile.</string>
+
+    <!-- House Tully -->
+    <string name="title_house_tully">House Tully</string>
+    <string name="call_house_tully">&#8220;Family, Duty, Honor.&#8221;</string>
+    <string name="story_house_tully">House Tully is one of the Great Houses of Westeros. Their
+        lands are to the west of the continent. Their seat is Riverrun, a castle at the confluence
+        of the Red Fork of the Trident with the Tumblestone. They rule over the Riverlands from the
+        castle and the head of the house is the Lord of Riverrun. \n\n House Tully rose to
+        prominence during the Wars of Conquest. Lord Edmyn Tully rebelled against the King of the
+        Isles and the Riverlands, Harren the Black, to support the invading House Targaryen.
+        Edmyn&#8217;s fellow Riverlords followed his lead. When Aegon Targaryen established his rule
+        from the Iron Throne he rewarded Edmyn, elevating the Tullys to Lords Paramount of the
+        Riverlands. \n\n Its current head is Lord Edmure Tully. His sisters, Catelyn and Lysa,
+        married Lords Eddard Stark and Jon Arryn during Robert&#8217;s Rebellion, forming a powerful
+        alliance of major houses.</string>
+
+    <!-- House Tyrell -->
+    <string name="title_house_tyrell">House Tyrell</string>
+    <string name="call_house_tyrell">&#8220;Growing Strong&#8221;</string>
+    <string name="story_house_tyrell">House Tyrell of Highgarden is one of the Great Houses of
+        Westeros. It rules over the Reach, a vast, fertile, and heavily-populated region of
+        southwestern Westeros, from their castle-seat, Highgarden. It is currently led by Lord
+        Mace Tyrell, although his mother, the indomitable Olenna Tyrell, still wields considerable
+        influence over the House&#8217;s affairs and is usually considered the true leader of the family.
+        Mace&#8217;s son Loras is a noted tournament knight (and, secretly, the lover of Lord Renly
+        Baratheon). Mace&#8217;s daughter Margaery married Renly when he crowned himself king, to cement
+        the alliance between Renly and her father. Following Renly&#8217;s death, Margaery was then
+        married to King Joffrey Baratheon before his assassination at his wedding feast. She is
+        now married to the king, Tommen Baratheon.</string>
+
+    <!-- Organisations -->
+    <string name="organisations_brotherhood">Brotherhood without Banners</string>
+    <string name="organisations_iron_bank">Iron Bank</string>
+    <string name="organisations_kingsguard">Kingsguard</string>
+    <string name="organisations_nightswatch">Night&#8217;s Watch</string>
+
+    <!-- Brotherhood without Banners -->
+    <string name="title_organisation_brotherhood">Brotherhood without Banners</string>
+    <string name="story_organisation_brotherhood">The Brotherhood Without Banners is an outlaw
+        group working against Lannister interests in the Riverlands at the time of the War of the
+        Five Kings, though their goal is to protect the smallfolk from any force preying on them,
+        regardless of which King or Lord they support. \n\nThe group was indirectly created by
+        Eddard Stark, when he sent out a force of knights to restore peace and justice to the
+        Riverlands, bolstered by several of his own household guards from House Stark. Trapped
+        behind enemy lines, they became a guerrilla fighting group, and were joined by deserters
+        from different armies in the war as well as commoners trying to defend their homes. The
+        Brotherhood continues to fight to protect the commoners of the Riverlands in the name of
+        King Robert and Lord Eddard. \n\n Following the Red Wedding, the Brotherhood Without
+        Banners is one of the few surviving groups who still actively resist Lannister
+        rule of the Seven Kingdoms.</string>
+
+    <!-- Iron Bank -->
+    <string name="title_organisation_iron_bank">Iron Bank</string>
+    <string name="story_organisation_iron_bank">The Iron Bank of Braavos is a bank in the Free City
+        of Braavos. It is arguably the most powerful financial institution in the Known World, with
+        clients across Essos and Westeros, including the government of the King of the Andals and
+        the First Men who rules over the Seven Kingdoms. \n\n Just as a common saying about House
+        Lannister is &#8220;A Lannister always pays his debts&#8221;, there is also a common saying
+        that the bank often reminds its clients who fail to repay their loans: &#8220;the Iron Bank
+        will have its due&#8221;. \n\n The symbol of the Iron Bank depicts two golden triangles
+        crossed in the manner of an hourglass, with two hands extending from left and right of the
+        point where the triangles meet, their palms held upwards.</string>
+
+    <!-- Kingsguard -->
+    <string name="title_organisation_kingsguard">Kingsguard</string>
+    <string name="story_organisation_kingsguard">The Kingsguard is an elite group of seven knights,
+        supposedly the greatest and most skilled warriors in all of Westeros, who serve as the
+        royal bodyguard of the King of the Andals and the First Men. Their duty is to protect the
+        king and the royal family from harm at all times. The Kingsguard swear the most holy of
+        vows to fulfill their sacred duty, and - in theory - are meant to be the living exemplars
+        of the pinnacle of knightly virtues. Like the brothers of the Night&#8217;s Watch, members of
+        the Kingsguard are sworn for life and are forbidden from owning land, taking a wife, or
+        fathering children.</string>
+
+    <!-- Night's Watch -->
+    <string name="title_organisation_nights_watch">The Night&#8217;s Watch</string>
+    <string name="story_organisation_nights_watch">The Night&#8217;s Watch is a military order which
+        holds and guards the Wall, the immense ice structure which separates the northern border
+        of the Seven Kingdoms from the lands beyond. The order was led by Lord Commander Jon Snow
+        from the stronghold of Castle Black up until his death by mutineers. And before Jon was
+        led by Lord Commander Jeor Mormont, who also was killed in a mutiny. The current Lord
+        Commander is still to be decided. \n\n The Night&#8217;s Watch consists of three groups: the
+        Rangers, who fight, defend the Wall and patrol the Haunted Forest; the Builders,
+        who maintain the Wall and the castles; and the Stewards, who support and feed the
+        members of the Watch.</string>
+
+    <!-- Religions -->
+    <string name="title_religions">Religions</string>
+    <string name="story_religions">A multitude of different religions are worshiped by different
+        cultures and peoples in the Known World, across the two continents of Westeros and
+        Essos.</string>
+    <string name="religions_essos">Essos</string>
+    <string name="religions_westeros">Westeros</string>
+
+    <!-- Religions of Essos -->
+    <string name="title_religions_essos">Religions of Essos</string>
+    <string name="religion_great_stallion">Great Stallion</string>
+    <string name="religion_lord_light">The Lord of Light</string>
+    <string name="religion_many_faced_god">The Many-Faced God of Death</string>
+
+    <!-- Great Stallion -->
+    <string name="title_religion_great_stallion">Great Stallion</string>
+    <string name="story_religion_great_stallion">The Great Stallion is a horse god revered as the
+        deity of the Dothraki religion, mirroring the importance of these creatures in Dothraki
+        culture. The religious beliefs of the Dothraki are complex, as there is little division
+        in Dothraki society between what in other cultures might be called &#8220;religion&#8221;
+        and &#8220;custom&#8221;.</string>
+
+    <!-- The Lord of Light -->
+    <string name="title_religion_lord_light">The Lord of Light</string>
+    <string name="story_religion_lord_light">R&#8217;hllor, alternatively known as the Lord of Light,
+        and is a deity widely worshiped in the continent of Essos. The Lord of Light has been
+        described as a &#8220;fire god&#8221; and its clergy &#8220;fire priests&#8221;, as worship
+        of the Lord of Light centers around fire and light. \n\n He is also known as the Red God,
+        the Heart of Fire, and the God of Flame and Shadow. \n\n The faith of the Lord of Light is
+        the majority religion in several of the Free Cities, and extends to Asshai in the distant
+        east. Worship of the Lord of Light is almost unheard of in Westeros.</string>
+
+    <!-- The Many Faced God -->
+    <string name="title_religion_many_faced_god">The Many Faced God of Death</string>
+    <string name="story_religion_many_faced_god">The Many-Faced God (alternatively known as the God
+        of Death) is a deity worshipped by the mysterious cult of assassins known as the Faceless
+        Men, who are headquartered in the Free City of Braavos.</string>
+
+
+    <!-- Religions of Westeros -->
+    <string name="title_religions_westeros">Religions of Westeros</string>
+    <string name="religion_old_gods">Old Gods</string>
+    <string name="religion_faith_seven">Faith of the Seven</string>
+    <string name="religion_drowned_god">Drowned God</string>
+
+    <!-- Old Gods -->
+    <string name="title_religion_old_gods">Old Gods</string>
+    <string name="story_religion_old_gods">Innumerable and nameless spirits of each tree, rock,
+        and stream worshipped by the Children of the Forest and later by the First Men. The
+        original religion of the continent, it was later pushed back by the Faith of the Seven.
+        In the present day, it is the majority religion only in the North and Beyond the Wall,
+        though there still exist a scattered minority of followers in the south of the
+        continent.</string>
+
+    <!-- Faith of the Seven -->
+    <string name="title_religion_faith_seven">Faith of the Seven</string>
+    <string name="story_religion_faith_seven">Introduced to Westeros during the Andal Invasion six
+        thousand years ago, it has for millennia been the majority religion on the continent. In
+        terms of number of followers, geographic spread, and influence on politics, the Faith of
+        the Seven is the overwhelmingly dominant religion in Westeros. It is based on the worship
+        of &#8220;The Seven&#8221; or the &#8220;Seven-faced God&#8221;, a single deity with seven
+        &#8220;aspects&#8221; or &#8220;faces&#8221;.</string>
+
+    <!-- Drowned God -->
+    <string name="title_religion_drowned_god">Drowned God</string>
+    <string name="story_religion_drowned_god">The local religion of the people of the Iron
+        Islands. Worshipers of the Drowned God value maritime skill, as well as prowess in combat
+        and in piratical raids. It is the least followed of the three major religions in Westeros
+        as well as the least widespread, being restricted to the lightly populated Iron Islands.
+        Nonetheless, as there are so few major religions on the continent, it is still the third
+        largest religion, and is certainly dominant within the Iron Islands themselves.</string>
+
+    <!-- Seasons -->
+    <string name="season_first">First Season</string>
+    <string name="season_second">Second Season</string>
+    <string name="season_third">Third Season</string>
+    <string name="season_fourth">Fourth Season</string>
+    <string name="season_fifth">Fifth Season</string>
+    <string name="season_sixth">Sixth Season</string>
+
+    <!-- First Season -->
+    <string name="title_season_first">First Season</string>
+    <string name="season_01_plot">Plot</string>
+    <string name="season_01_episode_01">01</string>
+    <string name="season_01_episode_02">02</string>
+    <string name="season_01_episode_03">03</string>
+    <string name="season_01_episode_04">04</string>
+    <string name="season_01_episode_05">05</string>
+    <string name="season_01_episode_06">06</string>
+    <string name="season_01_episode_07">07</string>
+    <string name="season_01_episode_08">08</string>
+    <string name="season_01_episode_09">09</string>
+    <string name="season_01_episode_10">10</string>
+
+    <!-- Season 01 Plot -->
+    <string name="title_season_01_plot">Season 1 Plot</string>
+    <string name="story_season_01_plot">Season 1 spans a period of several months on a world where
+        the seasons last for years at a time. The action begins in the unified Seven Kingdoms of
+        Westeros as the long summer ends and winter draws near. Lord Eddard Stark is asked by his
+        old friend, King Robert Baratheon, to serve as the Hand of the King following the death of
+        the previous incumbent, Eddard&#8217;s mentor Jon Arryn. Eddard is reluctant, but receives
+        intelligence suggesting that Jon was murdered. Eddard accepts Robert&#8217;s offer, planning to
+        use his position and authority to investigate the alleged murder. \n\nMeanwhile, on the
+        eastern continent of Essos, the exiled children of House Targaryen, which Robert destroyed
+        to claim the throne, are plotting to return to Westeros and unseat the &#8217;usurper&#8217;. To this
+        end, Viserys Targaryen arranges the marriage of his sister Daenerys to Khal Drogo, the
+        leader of 40,000 Dothraki warriors, in return for the use of his warriors in invading
+        Westeros. For her part, Daenerys just wants to find a safe refuge far away from King
+        Robert&#8217;s assassins and her brother&#8217;s scheming ambition. \n\n Finally, on the northern-most
+        border of the Seven Kingdoms the sworn brothers of the Night&#8217;s Watch guard the Wall, a
+        300-mile-long colossal fortification of ice which has stood for thousands of years. The
+        Watch defends the Wall against the depredations of the lawless wildlings who live beyond,
+        but rumor speaks of a new threat arising in the lands of perpetual winter.</string>
+
+    <!-- Season 01 Episode 01 -->
+    <string name="title_season_01_episode_01">&#8220;Winter is Coming&#8221;</string>
+    <string name="story_season_01_episode_01">Lord Eddard Stark, ruler of the North, is summoned to
+        court by his old friend, King Robert Baratheon, to serve as the King&#8217;s Hand. Eddard
+        reluctantly agrees after learning of a possible threat to the king&#8217;s life. Eddard&#8217;s
+        bastard son Jon Snow must make a painful decision about his own future, while in the
+        distant east Viserys Targaryen plots to reclaim his father&#8217;s throne, usurped by Robert,
+        by selling his sister in marriage.</string>
+
+    <!-- Season 01 Episode 02 -->
+    <string name="title_season_01_episode_02">&#8220;The Kingsroad&#8221;</string>
+    <string name="story_season_01_episode_02">An incident on the Kingsroad threatens Eddard and
+        Robert&#8217;s friendship. Jon and Tyrion travel to the Wall, where they discover that the
+        reality of the Night&#8217;s Watch may not match the heroic image of it.</string>
+
+    <!-- Season 01 Episode 03 -->
+    <string name="title_season_01_episode_03">&#8220;Lord Snow&#8221;</string>
+    <string name="story_season_01_episode_03">Jon Snow attempts to find his place amongst the
+        Night&#8217;s Watch. Eddard and his daughters arrive at King&#8217;s Landing.</string>
+
+    <!-- Season 01 Episode 04 -->
+    <string name="title_season_01_episode_04">&#8220;Cripples, Bastards and Broken Things&#8221;</string>
+    <string name="story_season_01_episode_04">Tyrion stops at Winterfell on his way home and gets
+        a frosty reception from Robb Stark. Eddard&#8217;s investigation into the death of his
+        predecessor gets underway.</string>
+
+    <!-- Season 01 Episode 05 -->
+    <string name="title_season_01_episode_05">&#8220;The Wolf and the Lion&#8221;</string>
+    <string name="story_season_01_episode_05">Catelyn&#8217;s actions on the road have repercussions
+        for Eddard. Tyrion enjoys the dubious hospitality of the Eyrie.</string>
+
+    <!-- Season 01 Episode 06 -->
+    <string name="title_season_01_episode_06">&#8220;A Golden Crown&#8221;</string>
+    <string name="story_season_01_episode_06">Viserys is increasingly frustrated by the lack of
+        progress towards gaining his crown.</string>
+
+    <!-- Season 01 Episode 07 -->
+    <string name="title_season_01_episode_07">&#8220;You Win or You Die&#8221;</string>
+    <string name="story_season_01_episode_07">Eddard&#8217;s investigations in King&#8217;s Landing reach a
+        climax and a dark secret is revealed.</string>
+
+    <!-- Season 01 Episode 08 -->
+    <string name="title_season_01_episode_08">&#8220;The Pointy End&#8221;</string>
+    <string name="story_season_01_episode_08">Tyrion joins his father&#8217;s army with unexpected
+        allies. Events in King&#8217;s Landing take a turn for the worse as Arya&#8217;s lessons are put to
+        the test.</string>
+
+    <!-- Season 01 Episode 09 -->
+    <string name="title_season_01_episode_09">&#8220;Baelor&#8221;</string>
+    <string name="story_season_01_episode_09">Catelyn must negotiate with the irascible Lord
+        Walder Frey.</string>
+
+    <!-- Season 01 Episode 10 -->
+    <string name="title_season_01_episode_10">&#8220;Fire and Blood&#8221;</string>
+    <string name="story_season_01_episode_10">Daenerys must realize her destiny. Jaime finds
+        himself in an unfamiliar predicament.</string>
+
+    <!-- Second Season -->
+    <string name="title_season_second">Second Season</string>
+    <string name="season_02_plot">Plot</string>
+    <string name="season_02_episode_01">01</string>
+    <string name="season_02_episode_02">02</string>
+    <string name="season_02_episode_03">03</string>
+    <string name="season_02_episode_04">04</string>
+    <string name="season_02_episode_05">05</string>
+    <string name="season_02_episode_06">06</string>
+    <string name="season_02_episode_07">07</string>
+    <string name="season_02_episode_08">08</string>
+    <string name="season_02_episode_09">09</string>
+    <string name="season_02_episode_10">10</string>
+
+    <!-- Season 02 Plot -->
+    <string name="title_season_02_plot">Season 2 Plot</string>
+    <string name="story_season_02_plot">Season 2 spans several months on a world where the seasons
+        last for years at a time. The Seven Kingdoms are at war, with the King in the North, Robb
+        Stark, fighting to win independence for his people and those of the Riverlands. Robb
+        decides that he must win the allegiance of the fiercely independent ironborn to his cause,
+        and sends his best friend Theon Greyjoy to treat with his father, who is hatching plans of
+        his own. Meanwhile, Joffrey Baratheon holds the Iron Throne with the backing of the
+        powerful House Lannister, but his uncle Renly has also claimed the throne with the support
+        of House Tyrell, whose armies are much larger. As they struggle for the throne, Tyrion
+        Lannister arrives in King&#8217;s Landing to take matters in hand, only to face opposition from
+        his scheming sister, Cersei, now the Queen Regent. \n\n However, there is another faction
+        entering the picture. Stannis Baratheon, Robert&#8217;s younger brother and Renly&#8217;s older brother,
+        has also claimed the Iron Throne. A proven battle commander and veteran of several wars,
+        Stannis is known to be utterly without mercy to his enemies and will do what is right even
+        if it destroys him. Advising him is Melisandre, an enigmatic priestess from the east, who
+        believes Stannis is meant for a greater destiny, and Ser Davos Seaworth, an honest and
+        honorable man uneasy with the shifts in power at Stannis&#8217; court. \n\n Far to the east,
+        Daenerys Targaryen has hatched the only three dragons in the world. Eventually they will
+        grow into terrifying monsters capable of destroying cities at her command, but for now
+        they are still hatchlings and vulnerable. With her khalasar gone, Daenerys and her small
+        band of followers must find a way across a forbidding wasteland and find new allies to
+        support her claim to the Iron Throne. \n\n In the distant north, the Night&#8217;s Watch has
+        mounted an expedition beyond the Wall, searching for missing rangers and investigating
+        rumors of wildlings gathering in the mountains. For Jon Snow this will be a rite of
+        passage as he is asked to make difficult choices, for the realm and for himself.</string>
+
+    <!-- Season 02 Episode 01 -->
+    <string name="title_season_02_episode_01">&#8220;The North Remembers&#8221;</string>
+    <string name="story_season_02_episode_01">War grips the continent of Westeros. As Tyrion
+        Lannister tries to take his strong-willed nephew in hand in King&#8217;s Landing, Stannis
+        Baratheon launches his own campaign to take the Iron Throne with the help of a mysterious
+        priestess. In the east, Daenerys must lead her retinue through a desolate wasteland whilst
+        beyond the Wall the Night&#8217;s Watch seeks the aid of a wildling.</string>
+
+    <!-- Season 02 Episode 02 -->
+    <string name="title_season_02_episode_02">&#8220;The Night Lands&#8221;</string>
+    <string name="story_season_02_episode_02">Stannis uses Ser Davos to seek out new allies for
+        his war with the Lannisters. On the road north, Arya confides in Gendry. Robb Stark sends
+        Theon Greyjoy to win an alliance with his father and the fierce warriors of the Iron
+        Islands. Cersei and Tyrion clash on how to rule in King&#8217;s Landing.</string>
+
+    <!-- Season 02 Episode 03 -->
+    <string name="title_season_02_episode_03">&#8220;What is Dead May Never Die&#8221;</string>
+    <string name="story_season_02_episode_03">Catelyn Stark treats with King Renly in the hope of
+        winning an alliance. Tyrion undertakes a complex plan in King&#8217;s Landing to expose an enemy.
+        At Winterfell, Bran&#8217;s dreams continue to trouble him.</string>
+
+    <!-- Season 02 Episode 04 -->
+    <string name="title_season_02_episode_04">&#8220;Garden of Bones&#8221;</string>
+    <string name="story_season_02_episode_04">Tyrion attempts to restrain Joffrey&#8217;s cruelty.
+        Catelyn attempts to broke a peace between Stannis and Renly. Daenerys and her followers
+        arrive at the great city of Qarth and hope to find refuge there. Arya and Gendry arrive
+        at Harrenhal, a great castle now under Lannister occupation.</string>
+
+    <!-- Season 02 Episode 05 -->
+    <string name="title_season_02_episode_05">&#8220;The Ghost of Harrenhal&#8221;</string>
+    <string name="story_season_02_episode_05">Confusion rages in the Stormlands in the wake of a
+        devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an
+        opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya
+        receives a promise from the enigmatic Jaqen H&#8217;ghar. The Night&#8217;s Watch arrives at the Fist
+        of the First Men. Daenerys Targaryen receives a marriage proposal.</string>
+
+    <!-- Season 02 Episode 06 -->
+    <string name="title_season_02_episode_06">&#8220;The Old Gods and the New&#8221;</string>
+    <string name="story_season_02_episode_06">Arya has a surprise visitor. Dany vows to take what
+        is hers. Joffrey meets his subjects. Qhorin gives Jon a chance to prove himself.</string>
+
+    <!-- Season 02 Episode 07 -->
+    <string name="title_season_02_episode_07">&#8220;A Man Without Honor&#8221;</string>
+    <string name="story_season_02_episode_07">Jaime meets a relative. Theon hunts. Dany receives
+        an invitation.</string>
+
+    <!-- Season 02 Episode 08 -->
+    <string name="title_season_02_episode_08">&#8220;The Prince of Winterfell&#8221;</string>
+    <string name="story_season_02_episode_08">Theon holds the fort. Arya calls in her debt with
+        Jaqen. Robb is betrayed. Stannis and Davos approach their destination.</string>
+
+    <!-- Season 02 Episode 09 -->
+    <string name="title_season_02_episode_09">&#8220;Blackwater&#8221;</string>
+    <string name="story_season_02_episode_09">A massive battle rages for control of King&#8217;s
+        Landing and the Iron Throne.</string>
+
+    <!-- Season 02 Episode 10 -->
+    <string name="title_season_02_episode_10">&#8220;Valar Morghulis&#8221;</string>
+    <string name="story_season_02_episode_10">Tyrion awakens to a changed situation. King Joffrey
+        doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some
+        final advice. Brienne silences Jaime. Arya receives a gift from Jaqen. Dany goes to a
+        strange place. Jon proves himself to Qhorin.</string>
+
+    <!-- Third Season -->
+    <string name="title_season_third">Third Season</string>
+    <string name="season_03_plot">Plot</string>
+    <string name="season_03_episode_01">01</string>
+    <string name="season_03_episode_02">02</string>
+    <string name="season_03_episode_03">03</string>
+    <string name="season_03_episode_04">04</string>
+    <string name="season_03_episode_05">05</string>
+    <string name="season_03_episode_06">06</string>
+    <string name="season_03_episode_07">07</string>
+    <string name="season_03_episode_08">08</string>
+    <string name="season_03_episode_09">09</string>
+    <string name="season_03_episode_10">10</string>
+
+    <!-- Season 03 Plot -->
+    <string name="title_season_03_plot">Season 3 Plot</string>
+    <string name="story_season_03_plot">Season 3 spans several months on a world where the seasons
+        can last for years at a time. Autumn has fallen across the world, with winter not far
+        behind. The people should be preparing for years of snow and ice, but the Seven Kingdoms
+        of Westeros instead remain gripped by civil war. Would-be king Renly Baratheon has been
+        assassinated, altering the alliances in the war. The cruel boy-king Joffrey Baratheon has
+        won a great victory by securing an alliance with House Tyrell, with his supporters
+        defeating his uncle Stannis in an epic battle. Joffrey now commands the largest armies
+        in the realm and his triumph appears inevitable. \n\n King Robb Stark remains in the field,
+        however his homeland, the North, is partially under ironborn occupation. Robb needs to
+        decide on a course of action to win an overall victory. He must also win back the
+        allegiance of House Frey, whom he has offended by breaking his marriage pact with them.
+        King Robb has won every battle he has fought, but as with old King Robert, the Starks will
+        have to see if good soldiers make good kings. \n\n Stannis Baratheon may be defeated and
+        most of his army destroyed or scattered, but he is not out of the fight yet. Having
+        retreated to his headquarters on Dragonstone island with his handful of surviving soldiers,
+        Stannis&#8217; status as the last legitimate heir to his older brother Robert still casts a
+        shadow over Joffrey&#8217;s claim to the throne. With the priestess Melisandre at his side,
+        Stannis can still influence the course of the war by striking where least expected. \n\n
+        The lives of many others still hang in the balance. Bran Stark and his protectors must
+        cross the frozen wastelands of the North to reach the Wall, while Arya must brave the
+        war-torn Riverlands in search of her mother and brother. Brienne of Tarth also has the
+        thankless task of escorting the captive Jaime Lannister home across hundreds of miles of
+        battlefields and carnage. Theon Greyjoy must face the consequences of his actions at
+        Winterfell. And in King&#8217;s Landing both Tyrion Lannister and Sansa Stark must brave the
+        currents of a much more dangerous court in order to survive. \n\n On the eastern continent,
+        Daenerys Targaryen has fled the political viper-pit of Qarth. Her dragons are growing and
+        her fame is spreading, but to take the Iron Throne she will need supporters and an army.
+        Both may be found in the corrupt cities of Slaver&#8217;s Bay... for a price. \n\n Beyond the
+        Wall, the White Walkers are on the move, threatening both the Seven Kingdoms and the lands
+        of the Free Folk. While the Night&#8217;s Watch faces the threat of the White Walkers in the
+        field, Jon Snow must infiltrate the wildling army of Mance Rayder and discover the
+        King-Beyond-the-Wall&#8217;s plans.</string>
+
+    <!-- Season 03 Episode 01 -->
+    <string name="title_season_03_episode_01">&#8220;Valar Dohaeris&#8221;</string>
+    <string name="story_season_03_episode_01">Jon is brought before Mance Rayder, the King Beyond
+        the Wall, while the Night&#8217;s Watch survivors retreat south. In King&#8217;s Landing, Tyrion asks
+        for his reward, Littlefinger offers Sansa a way out, and Cersei hosts a dinner for the
+        royal family. Dany sails into Slaver&#8217;s Bay.</string>
+
+    <!-- Season 03 Episode 02 -->
+    <string name="title_season_03_episode_02">&#8220;Dark Wings, Dark Words&#8221;</string>
+    <string name="story_season_03_episode_02">Sansa Stark is introduced to Olenna Tyrell and is
+        incautious when questioned about King Joffrey Baratheon. Shae asks Tyrion Lannister for
+        help protecting Sansa. Jaime Lannister provokes Brienne into a duel but finds himself
+        recaptured. Arya Stark crosses paths with the Brotherhood Without Banners and is
+        recognized by their new prisoner Sandor Clegane. Ravens bring dark news to the King in the
+        North at Harrenhal; his brothers are still missing and Hoster Tully has died. Jon Snow
+        learns about wargs from the Free Folk. Bran Stark is surprised to meet new allies in the
+        barren North.</string>
+
+    <!-- Season 03 Episode 03 -->
+    <string name="title_season_03_episode_03">&#8220;Walk of Punishment&#8221;</string>
+    <string name="story_season_03_episode_03">Tyrion gains new responsibilities. Jon is taken to
+        the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with
+        his captors.</string>
+
+    <!-- Season 03 Episode 04 -->
+    <string name="title_season_03_episode_04">&#8220;And Now His Watch is Ended&#8221;</string>
+    <string name="story_season_03_episode_04">The Night&#8217;s Watch takes stock. Varys meets his better.
+        Arya is taken to the commander of the Brotherhood. Daenerys makes an exchange.</string>
+
+    <!-- Season 03 Episode 05 -->
+    <string name="title_season_03_episode_05">&#8220;Kissed by Fire&#8221;</string>
+    <string name="story_season_03_episode_05">The Hound is judged by the gods. Jaime is judged.
+        Jon proves himself. Robb is betrayed. Tyrion learns the cost of weddings.</string>
+
+    <!-- Season 03 Episode 06 -->
+    <string name="title_season_03_episode_06">&#8220;The Climb&#8221;</string>
+    <string name="story_season_03_episode_06">Tywin plans strategic unions for the Lannisters.
+        Melisandre pays a visit to the Riverlands. Robb weighs a compromise to repair his alliance
+        with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte and
+        the Wildlings face a daunting climb.</string>
+
+    <!-- Season 03 Episode 07 -->
+    <string name="title_season_03_episode_07">&#8220;The Bear and the Maiden Fair&#8221;</string>
+    <string name="story_season_03_episode_07">Dany exchanges gifts with a slave lord outside of
+        Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion&#8217;s new situation. Tywin
+        counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable
+        foe in Harrenhal.</string>
+
+    <!-- Season 03 Episode 08 -->
+    <string name="title_season_03_episode_08">&#8220;Second Sons&#8221;</string>
+    <string name="story_season_03_episode_08">King&#8217;s Landing hosts a wedding, and Tyrion and Sansa
+        spend the night together. Dany meets the Titan&#8217;s Bastard. Davos demands proof from
+        Melisandre. Sam and Gilly meet an older gentleman.</string>
+
+    <!-- Season 03 Episode 09 -->
+    <string name="title_season_03_episode_09">&#8220;The Rains of Castamere&#8221;</string>
+    <string name="story_season_03_episode_09">Robb presents himself to Walder Frey, and Edmure
+        meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and
+        Jorah debate how to take Yunkai. House Frey joins with House Tully.</string>
+
+    <!-- Season 03 Episode 10 -->
+    <string name="title_season_03_episode_10">&#8220;Mhysa&#8221;</string>
+    <string name="story_season_03_episode_10">Joffrey challenges Tywin. Bran tells a ghost story.
+        In Dragonstone, mercy comes from strange quarters. Dany waits to see if she is a conqueror
+        or a liberator.</string>
+
+    <!-- Fourth Season -->
+    <string name="title_season_fourth">Fourth Season</string>
+    <string name="season_04_plot">Plot</string>
+    <string name="season_04_episode_01">01</string>
+    <string name="season_04_episode_02">02</string>
+    <string name="season_04_episode_03">03</string>
+    <string name="season_04_episode_04">04</string>
+    <string name="season_04_episode_05">05</string>
+    <string name="season_04_episode_06">06</string>
+    <string name="season_04_episode_07">07</string>
+    <string name="season_04_episode_08">08</string>
+    <string name="season_04_episode_09">09</string>
+    <string name="season_04_episode_10">10</string>
+
+    <!-- Season 04 Plot -->
+    <string name="title_season_04_plot">Season 4 Plot</string>
+    <string name="story_season_04_plot">The War of the Five Kings is drawing to a close, but new
+        intrigues and plots are in motion, and the surviving factions must contend with enemies not
+        only outside their ranks, but within. \n\n King in the North Robb Stark is dead, betrayed
+        by his own bannermen the Boltons and Freys while he was a guest under the Freys&#8217; roof.
+        Robb&#8217;s mother Catelyn and his wife Talisa, along with most of the Northern leadership were
+        also killed at the massacre now known as the Red Wedding, along with the entire Northern
+        army. \n\n Having already defeated Stannis Baratheon at the Battle of the Blackwater and
+        secured southern Westeros, House Lannister stands triumphant. The crazed boy-king Joffrey
+        Baratheon gloats, though the victory truly belongs to his grandfather, Lord Tywin Lannister,
+        Hand of the King and the real power behind the Iron Throne. As reward for their betrayal,
+        Tywin has granted the Boltons rule of the North, and the Freys with nominal rule of
+        Riverrun, though the castle remains under the command of Brynden Tully. \n\n Though the
+        mainland of Westeros is mostly under Lannister control, there are still two factions
+        defying them: the Greyjoys and the Baratheons. Ironborn occupiers remaining in the North
+        are being hunted down by Ramsay Snow, bastard son of Roose Bolton. Ramsay holds Theon
+        Greyjoy hostage, horribly torturing him at whim, but Balon Greyjoy considers his son as
+        good as dead. \n\n Stannis Baratheon, as the rightful heir to his older brother King Robert,
+        still refuses to surrender, despite having only the remnants of an army. However, following
+        the advice of Melisandre, he has focused his attention of the threat of the wildlings
+        marching against the Wall. \n\n The Lannisters only managed to win on the battlefield with
+        the key support of House Tyrell of the Reach, which they won through promising a
+        marriage-alliance between King Joffrey and Margaery Tyrell, daughter of Lord Mace Tyrell.
+        Queen Regent Cersei fears - correctly - that just as the Baratheons became dependent on the
+        Lannisters after Robert&#8217;s Rebellion, the Lannisters are starting to become dependent on
+        the Tyrells, who are already insinuating themselves into positions of power at King&#8217;s
+        Landing. A royal wedding is to be held between Joffrey and Margaery, which will confirm
+        the future of the realm. \n\n The only two kingdoms which have remained entirely aloof
+        from the war so far are the Vale of Arryn and Dorne. While Lysa Arryn chose to remain
+        neutral, former Master of Coin and new Lord of Harrenhal Petyr Baelish has been sent by
+        Lord Tywin to woo her with a marriage proposal, now that he&#8217;s a high lord and a suitable
+        match for the Lady Regent of the Vale. Nevertheless only Littlefinger knows what
+        Littlefinger is plotting. \n\n For their own part, House Martell of Dorne has loathed the
+        Lannisters ever since the Sack of King&#8217;s Landing, when Ser Gregor Clegane raped and killed
+        Elia Martell - sister of Doran Martell, the ruling Prince of Dorne - and Lord Tywin did
+        nothing to punish him. During the War of the Five Kings Tyrion Lannister prevented Dorne
+        from declaring for any of House Lannister&#8217;s enemies by sending Princess Myrcella to
+        Sunspear as part of her betrothal to Prince Trystane Martell, and in return, the Martells
+        were promised a seat on the Small Council. To the consternation of the Lannisters, a large
+        Dornish embassy arrives in King&#8217;s Landing to claim their due - but instead of the elderly
+        Prince Doran, his brash younger brother Prince Oberyn comes to claim the council seat.
+        Oberyn loves the ladies, he loves the boys, but most of all he loved his sister Elia, and
+        the Lannisters aren&#8217;t the only ones who pay their debts. \n\n Meanwhile, across the Narrow
+        Sea in Slaver&#8217;s Bay, perhaps the greatest threat to Lannister rule is rapidly growing in
+        strength. Daenerys Targaryen now commands not just three live dragons - who are starting to
+        grow large enough to serve as decisive weapons of war - but also an army of eight thousand
+        Unsullied warrior-eunuchs. For now, Queen Daenerys is carving a path through Slaver&#8217;s Bay
+        - not of conquest but of liberation. As functionally once a slave herself, Daenerys is
+        determined to free the downtrodden slaves of the region. First Astapor and then Yunkai fell
+        before Daenerys&#8217;s forces, and hundreds of thousands of freed slaves now flock to her banner.
+        Yet Daenerys must now face the last and greatest of the slaver-cities, Meereen - and unlike
+        her previous victories, they have had time to prepare for her arrival. \n\n Far to the
+        north, beyond the politics and meaningless feuds of the south, the Wall and the dwindling
+        Night&#8217;s Watch are all that stand between the Seven Kingdoms and the horrors beyond. The
+        White Walkers have emerged in force, leading their armies of wights. The wildlings have
+        rallied behind King-Beyond-the-Wall Mance Rayder in an attempt to flee south, knowing that
+        as the White Walkers advance, anyone who remain in the lands beyond the Wall will die and
+        become part of the undead host. Mance&#8217;s wildling army now numbers in the tens of thousands,
+        and is determined to force its way through the Wall to reach the safety of the south. All
+        that stands between the Seven Kingdoms and this barbarian invasion is the Night&#8217;s Watch,
+        whose numbers and leadership were recently devastated with the deaths of a third of their
+        number and that of Lord Commander Jeor Mormont. Jon Snow and Samwell Tarly do what they can
+        to prepare Castle Black for the massive wildling attack. \n\n Not only are the Night&#8217;s
+        Watch outnumbered and their remaining leadership fractured, but advanced raiding bands of
+        wildlings have infiltrated behind the Wall by climbing over it, preparing to attack the
+        weakly defended southern side of Castle Black. These warbands are led by Tormund and the
+        fearsome Styr, Magnar of Thenn - as well as Jon Snow&#8217;s ex-lover Ygritte, whom he betrayed
+        when he revealed his true loyalty and returned to the Night&#8217;s Watch. \n\n In the Seven
+        Kingdoms, while House Stark stands on the verge of extinction - and is believed to be just
+        that by the realm at large - four &#8220;lone wolves&#8221; fight to survive: Sansa Stark
+        remains a hostage of the Iron Throne and a forced marriage to Tyrion Lannister, Rickon
+        Stark seeks the safety of Last Hearth and the fiercely loyal House Umber, Bran Stark and
+        his companions Hodor, Jojen and Meera Reed have crossed the Wall chasing a vision, and Arya
+        Stark, having lost everything and forced to rely on the protection of a man she hates,
+        clings to survival and her thirst for vengeance.</string>
+
+    <!-- Season 04 Episode 01 -->
+    <string name="title_season_04_episode_01">&#8220;Two Swords&#8221;</string>
+    <string name="story_season_04_episode_01">Tyrion welcomes a guest to King&#8217;s Landing. At Castle
+        Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all
+        slave cities. Arya runs into an old friend.</string>
+
+    <!-- Season 04 Episode 02 -->
+    <string name="title_season_04_episode_02">&#8220;The Lion and the Rose&#8221;</string>
+    <string name="story_season_04_episode_02">A who&#8217;s who of honored guests turns out for Joffrey
+        and Margaery&#8217;s wedding in King&#8217;s Landing. Meanwhile, Bronn gives a lesson to an unlikely
+        pupil. Bran&#8217;s vision helps map out his journey. Stannis loses patience with Davos. Ramsay
+        takes a perverse delight in his new pet.</string>
+
+    <!-- Season 04 Episode 03 -->
+    <string name="title_season_04_episode_03">&#8220;Breaker of Chains&#8221;</string>
+    <string name="story_season_04_episode_03">In the frenzied aftermath of the royal wedding,
+        Tyrion gets a visit from a loyal subject. Meanwhile, Tywin offers to work for the common
+        good with a presumed enemy. Sam takes stock of the personnel at Castle Black. The Hound
+        gives another life lesson to Arya. Daenerys makes a decision outside the walls of
+        Meereen.</string>
+
+    <!-- Season 04 Episode 04 -->
+    <string name="title_season_04_episode_04">&#8220;Oathkeeper&#8221;</string>
+    <string name="story_season_04_episode_04">Dany balances justice and mercy. Jaime tasks Brienne
+        with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on
+        shelter.</string>
+
+    <!-- Season 04 Episode 05 -->
+    <string name="title_season_04_episode_05">&#8220;First of His Name&#8221;</string>
+    <string name="story_season_04_episode_05">Cersei and Tywin plot the Crown’s next move. Dany
+        discusses future plans. Jon embarks on a new mission.</string>
+
+    <!-- Season 04 Episode 06 -->
+    <string name="title_season_04_episode_06">&#8220;The Laws of Gods and Men&#8221;</string>
+    <string name="story_season_04_episode_06">Stannis and Davos set sail with a new strategy. Dany
+        meets with supplicants. Tyrion faces down his father in the throne room.</string>
+
+    <!-- Season 04 Episode 07 -->
+    <string name="title_season_04_episode_07">&#8220;Mockingbird&#8221;</string>
+    <string name="story_season_04_episode_07">Tyrion enlists an unlikely ally. Daario entreats
+        Dany to allow him to do what he does best. Jon’s warnings about the Wall’s vulnerability
+        fall on deaf ears. Brienne follows a new lead on the road with Pod.</string>
+
+    <!-- Season 04 Episode 08 -->
+    <string name="title_season_04_episode_08">&#8220;The Mountain and the Viper&#8221;</string>
+    <string name="story_season_04_episode_08">Unexpected visitors arrive in Mole&#8217;s Town.
+        Littlefinger&#8217;s motives are questioned. Ramsay tries to prove himself to his father.
+        Tyrion&#8217;s fate is decided.</string>
+
+    <!-- Season 04 Episode 09 -->
+    <string name="title_season_04_episode_09">&#8220;The Watchers on the Wall&#8221;</string>
+    <string name="story_season_04_episode_09">Jon Snow and the Night&#8217;s Watch face a big
+        challenge.</string>
+
+    <!-- Season 04 Episode 10 -->
+    <string name="title_season_04_episode_10">&#8220;The Children&#8221;</string>
+    <string name="story_season_04_episode_10">Circumstances change after an unexpected arrival
+        from north of the Wall. Dany must face harsh realities. Bran learns more about his destiny.
+        Tyrion sees the truth about his situation.</string>
+
+    <!-- Fifth Season -->
+    <string name="title_season_fifth">Fifth Season</string>
+    <string name="season_05_plot">Plot</string>
+    <string name="season_05_episode_01">01</string>
+    <string name="season_05_episode_02">02</string>
+    <string name="season_05_episode_03">03</string>
+    <string name="season_05_episode_04">04</string>
+    <string name="season_05_episode_05">05</string>
+    <string name="season_05_episode_06">06</string>
+    <string name="season_05_episode_07">07</string>
+    <string name="season_05_episode_08">08</string>
+    <string name="season_05_episode_09">09</string>
+    <string name="season_05_episode_10">10</string>
+
+    <!-- Season 05 Plot -->
+    <string name="title_season_05_plot">Season 5 Plot</string>
+    <string name="story_season_05_plot">
+        The War of the Five Kings, once thought to be drawing to a close, is instead entering a new
+        and more chaotic phase. Westeros is on the brink of collapse, and many are seizing what
+        they can while the realm implodes, like a corpse making a feast for crows. \n\n Tywin
+        Lannister is dead, shot on the privy by his long-abused dwarf son Tyrion. The crazed
+        boy-king Joffrey Baratheon, Tywin&#8217;s grandson, is also dead after being poisoned at his own
+        wedding, and succeeded by his younger and more pliable brother, Tommen. Queen Cersei
+        Lannister succeeds her father as the head of House Lannister, and once again takes over
+        as Queen Regent, as Tommen has yet to come of age. Cersei has been blocked by several
+        powerful men over the years, including her husband King Robert Baratheon and his friend
+        Eddard Stark, but due to her betrayals they are both dead. Now with even Tywin and Joffrey
+        dead, and Tyrion fleeing the realm, there are no more checks on Cersei&#8217;s power, and she is
+        essentially the Ruling Queen of the Seven Kingdoms in all but name. However, Cersei is
+        neither a master strategist nor a skilled diplomat (unlike her father and brother) and she
+        faces mounting crises that would have strained even their abilities. \n\n House Lannister
+        and its allies have managed to crush House Stark, but in many ways it was a pyrrhic victory.
+        The Iron Throne was already in massive debt to foreign banks before the war even began,
+        and the Lannisters&#8217; immense wartime spending increased the crown&#8217;s debts to crippling
+        levels. The Lannisters must now desperately attempt to placate the Iron Bank of Braavos,
+        by far the largest of the foreign banks, and the one which the crown owes most of its huge
+        debts to. \n\n The game of thrones is, unfortunately, not a simple game of cyvasse in
+        which the pieces can be quickly reassembled: vast swathes of Westeros have been devastated
+        by civil war, and it may take a full generation for them to rebuild. The Riverlands, where
+        most of the war was fought, have been reduced to a burned out husk. Nominally the
+        Lannisters and their House Frey allies control the Riverlands, but it has been reduced to
+        a lawless and corpse-filled devastation, hardly controlled by anyone. Winter is fast
+        approaching, but instead of stockpiling harvests the past few years, the great lords have
+        been busy destroying one of the main breadbasket regions of the Seven Kingdoms. Combined
+        with the realm&#8217;s massive debts to foreign banks, starvation level conditions are starting
+        to set in for the smallfolk across the realm. Outraged by the willful indifference of their
+        rulers to their well-being for so long, commoners are starting to fall back onto old
+        cultural touchstones, channeling their frustration into religious fanaticism. A popular
+        disgust movement spreads across Westeros, and makes its way to the capital. \n\n Adding to
+        these woes is the increasing rivalry between the Lannisters and their Tyrell allies,
+        specifically between Cersei and Margaery Tyrell. The Lannisters only managed to win on the
+        battlefield with the armies and food resources won by their alliance with the House Tyrell
+        of the Reach. Now that Tywin is dead, and Margaery is soon to be King Tommen&#8217;s queen, the
+        Tyrells are no longer pretending to be polite to the Lannisters, but openly demanding
+        greater concessions and key positions of power. With half of the Lannister armies
+        slaughtered by Robb Stark during the war, their financial resources depleted, and the
+        Tyrells controlling the only major breadbasket region untouched by the war, the Lannisters
+        are having to face the reality that the Tyrells hold numerous advantages over them. Just
+        as Robert Baratheon became king only to become dependent on the support of the Lannisters,
+        the Lannisters have now become dependent on the Tyrells. \n\n Without the political acumen
+        of Tywin or Tyrion, Queen Regent Cersei struggles to address these major challenges. Adding
+        even further to her woes is that the king&#8217;s Small Council has been gutted, with Hand of the
+        King Tywin dead, Master of Coin Petyr Baelish leaving for the Eyrie, and both Tyrion and
+        Master of Whisperers Varys fleeing the capital city. Of the original Small Council when the
+        Lannisters first seized power, only Grand Maester Pycelle remains. \n\n Besides the Reach,
+        only the regions which have remained neutral so far still have all of their armies and
+        resources intact: the Vale, ruled by House Arryn, and Dorne, ruled by House Martell. With
+        nearly all the other Great Houses defeated or half-exhausted, the fresh armies of the Vale
+        and Dorne can drastically alter the political playing field, depending on which side they
+        choose to join. \n\n The ultimate result of the war was to exhaust the Starks, Lannisters,
+        and other Great Houses of the Seven Kingdoms - exactly as Petyr &#8220;Littlefinger&#8221; Baelish had
+        planned. The secret architect of the conflict, it was Littlefinger who was responsible for
+        poisoning Robert&#8217;s Hand, Jon Arryn, by conspiring with his own wife Lysa Arryn.
+        Littlefinger then engineered the betrayal of Eddard Stark, only to later assist Olenna
+        Tyrell in assassinating King Joffrey at his own wedding. Baelish has now murdered Lysa,
+        mere days after wedding her, and seized power over the Vale as regent for her young son.
+        For the moment, Baelish remains in the Vale, consolidating his new hold over the Vale
+        lords through his stepson Robin and his position as Lord Protector of the Vale. Alongside
+        Baelish is the black-haired &#8220;Alayne&#8221;, his ward and &#8220;niece&#8221; - secretly, Sansa Stark, who
+        fell into Littlefinger&#8217;s custody after he helped her escape her long imprisonment at
+        Joffrey&#8217;s royal court. \n\n In the deserts of the deep south of Westeros, the people of
+        Dorne demand vengeance for the death of Prince Oberyn, who died in a trial by combat at the
+        hands of Ser Gregor Clegane. Leading the call to enter the war against the Lannisters are
+        Oberyn&#8217;s paramour, Ellaria Sand, and the eldest of his eight daughters: Obara, Nymeria,
+        and Tyene. But Doran Martell, the Prince of Dorne and Oberyn&#8217;s older brother, continues
+        to urge restraint. Further complicating the matter is that early in the war, the Lannisters
+        bribed the Martells into staying neutral by offering a marriage-alliance, sending Cersei&#8217;s
+        daughter Myrcella to Dorne to betroth her to Doran&#8217;s son Trystane. Myrcella is still a ward
+        living in Dorne&#8217;s capital, Sunspear. \n\ The most dire situation in Westeros, however, is
+        in the North and at the Wall. The massive assault against Castle Black by the wildling army
+        of Mance Rayder was defeated at the last moment by the surprise arrival of Stannis
+        Baratheon and his remaining forces. Stannis withdrew from his island stronghold Dragonstone
+        to reach the Wall by sea, to defend the realm of which he feels he is the only rightful
+        king. With his home territories in the Stormlands overrun, Stannis needs to win the
+        allegiance of Robb Stark&#8217;s defeated bannermen, to rally the North again as a springboard
+        against Lannister rule, as well as the support of Jon Snow, who therefore must walk a
+        political tightrope between Stannis and his vows, since the Night&#8217;s Watch is sworn to
+        strict political neutrality. Though the battle against the wildlings is all but over, the
+        Night&#8217;s Watch is in its own dire conditions. With almost all of the Watch&#8217;s top officers
+        either killed or missing, among them Lord Commander Jeor Mormont and First Ranger Benjen
+        Stark, the organization has been left leaderless during this time of crisis, and therefore
+        will have to navigate a contentious election for a new Lord Commander. All the while, the
+        White Walkers and their ever-growing army of the dead are bearing down on the Wall itself,
+        intent on spilling over it to destroy the lands of men beyond, who remain ignorant of the
+        long-forgotten but all-too-real danger. \n\n The main armies of the Northern Houses,
+        however, were slaughtered in the south at the Red Wedding, and the large main army of
+        House Bolton has just returned to the North following the recapture of Moat Cailin. The
+        Boltons switched to the Lannister side during the betrayal at the Red Wedding, during which
+        their leader Lord Roose Bolton personally killed Robb Stark, and they have been installed
+        as the new rulers of the North in the name of King Tommen and the Lannisters. With the
+        other Northern Houses defeated and weakened, the Lannister-backed Bolton army can now
+        suppress any feeble opposition to their rule. Meanwhile, Roose&#8217;s psychopathic bastard son
+        Ramsay Snow - now legitimized as Ramsay Bolton - is the new Lord of Winterfell under his
+        father, reoccupying the castle which he personally burned out previously. With the Boltons
+        in power, Ramsay is now free to commit numerous atrocities throughout the North, such as
+        flaying men alive and hunting and killing young women for sport. \n\n However, the struggle
+        for the North is not yet over. Various areas of the North&#8217;s western coast are still held by
+        ironborn invaders under Balon Greyjoy, who chose to crown himself as King of the Iron
+        Islands and attack the North during Robb Stark&#8217;s march south rather than ally with him
+        against the Lannisters. Balon&#8217;s son and heir, Theon, who himself was a ward of Lord Eddard
+        Stark and one of Robb&#8217;s closest advisors, turned on the Starks and led the assault himself
+        but was betrayed by his own men and is now a prisoner of the Boltons, having been brutally
+        flayed, tortured, and psychologically broken by Ramsay himself, who has reduced Theon to
+        his personal slave, &#8220;Reek&#8221;. \n\n East of Westeros, after murdering his own father, Tyrion
+        Lannister has fled across the Narrow Sea to the Free Cities, his future intentions unknown
+        even to himself. Accompanied by Varys, he arrives in the east, unaware that the erstwhile
+        Master of Whisperers might yet have secrets to reveal. Further north, meanwhile,
+        representatives from the Iron Throne travel to the Free City of Braavos to assuage the Iron
+        Bank&#8217;s frustrations about all of the money the Lannisters owe. Unbeknownst to all, Arya
+        Stark has also fled to Braavos, due to a favor she was owed for saving the life of one of
+        the mysterious guild of assassins in Braavos known as the Faceless Men. \n\n Further east
+        in Slaver&#8217;s Bay, Daenerys Targaryen&#8217;s hold over Meereen has become very precarious, as
+        ruling the city is becoming much more difficult than conquering it was. Sectarian violence
+        is rampant between the former slaves and former slave-masters, revenge attacks are on the
+        rise, and the resurgent slavers at Yunkai are rallying all those who oppose her. Daenerys&#8217;s
+        three dragons, now growing to dangerous size, have become uncontrollable and she can no
+        longer rely upon them to defeat her enemies on the battlefield. Drogon burned a child to
+        death while he was hunting and fled the city, forcing Daenerys to chain up the remaining
+        two dragons in the caverns underneath the city. In addition, Daenerys is still distraught
+        over the recent revelations concerning her once-trusted advisor Jorah Mormont, whom she
+        exiled from the city as punishment. Her remaining advisors Ser Barristan Selmy, Missandei,
+        and the sellsword Daario Naharis attempt to help hold her reign together. \n\n But
+        unbeknownst to Daenerys, word has finally spread to Westeros that the last living Targaryen
+        heir has hatched three live dragons. No longer a mere curiosity halfway across the world,
+        several different factions in Westeros are now pondering how Daenerys and her dragons will
+        factor into the already confusing and multi-sided civil war still tearing the Seven Kingdoms
+        apart. Envoys are beginning to head east to court Daenerys&#8217;s allegiance: but those who try
+        to dance with dragons run the risk of being burned.
+    </string>
+
+    <!-- Season 05 Episode 01 -->
+    <string name="title_season_05_episode_01">&#8220;The Wars to Come&#8221;</string>
+    <string name="story_season_05_episode_01">Cersei and Jaime adjust to a world without Tywin.
+        Varys reveals a conspiracy to Tyrion. Dany faces a new threat to her rule. Jon is caught
+        in between two kings.</string>
+
+    <!-- Season 05 Episode 02 -->
+    <string name="title_season_05_episode_02">&#8220;The House of Black and White&#8221;</string>
+    <string name="story_season_05_episode_02">Arya arrives in Braavos. Pod and Brienne run into
+        trouble on the road. Cersei fears for her daughter’s safety in Dorne as Ellaria Sand seeks
+        revenge for Oberyn’s death. Stannis tempts Jon. An adviser tempts Dany.</string>
+
+    <!-- Season 05 Episode 03 -->
+    <string name="title_season_05_episode_03">&#8220;High Sparrow&#8221;</string>
+    <string name="story_season_05_episode_03">In Braavos, Arya sees the Many-Faced God. In King’s
+        Landing, Queen Margaery enjoys her new husband. Tyrion and Varys walk the Long Bridge of
+        Volantis.</string>
+
+    <!-- Season 05 Episode 04 -->
+    <string name="title_season_05_episode_04">&#8220;Sons of the Harpy&#8221;</string>
+    <string name="story_season_05_episode_04">The Faith Militant grow increasingly aggressive.
+        Jaime and Bronn head south. Ellaria and the Sand Snakes vow vengeance.</string>
+
+    <!-- Season 05 Episode 05 -->
+    <string name="title_season_05_episode_05">&#8220;Kill the Boy&#8221;</string>
+    <string name="story_season_05_episode_05">Dany makes a difficult decision in Meereen. Jon
+        recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under
+        Ramsay’s control.</string>
+
+    <!-- Season 05 Episode 06 -->
+    <string name="title_season_05_episode_06">&#8220;Unbowed, Unbent, Unbroken&#8221;</string>
+    <string name="story_season_05_episode_06">Arya trains. Jorah and Tyrion run into slavers.
+        Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand
+        Snakes attack.</string>
+
+    <!-- Season 05 Episode 07 -->
+    <string name="title_season_05_episode_07">&#8220;The Gift&#8221;</string>
+    <string name="story_season_05_episode_07">Jon prepares for conflict. Sansa tries to talk to
+        Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect
+        with family.</string>
+
+    <!-- Season 05 Episode 08 -->
+    <string name="title_season_05_episode_08">&#8220;Hardhome&#8221;</string>
+    <string name="story_season_05_episode_08">Arya makes progress in her training. Sansa confronts
+        an old friend. Cersei struggles. Jon travels.</string>
+
+    <!-- Season 05 Episode 09 -->
+    <string name="title_season_05_episode_09">&#8220;The Dance of Dragons&#8221;</string>
+    <string name="story_season_05_episode_09">Stannis confronts a troubling decision. Jon returns
+        to the Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Daenerys
+        relunctantly oversees a traditional celebration of athleticism.</string>
+
+    <!-- Season 05 Episode 10 -->
+    <string name="title_season_05_episode_10">&#8220;Mother&#8217;s Mercy&#8221;</string>
+    <string name="story_season_05_episode_10">Stannis marches. Dany is surrounded by strangers.
+        Cersei seeks forgiveness. Jon is challenged.</string>
+
+    <!-- Sixth Season -->
+    <string name="title_season_sixth">Sixth Season</string>
+    <string name="season_06_plot">Plot</string>
+    <string name="season_06_episode_01">01</string>
+    <string name="season_06_episode_02">02</string>
+    <string name="season_06_episode_03">03</string>
+    <string name="season_06_episode_04">04</string>
+    <string name="season_06_episode_05">05</string>
+    <string name="season_06_episode_06">06</string>
+    <string name="season_06_episode_07">07</string>
+    <string name="season_06_episode_08">08</string>
+    <string name="season_06_episode_09">09</string>
+    <string name="season_06_episode_10">10</string>
+
+    <!-- Season 06 Episode 01 -->
+    <string name="title_season_06_episode_01">&#8220;The Red Woman&#8221;</string>
+    <string name="story_season_06_episode_01">April 24, 2016 \n\n Jon Snow is dead. Daenerys meets a
+        strong man. Cersei sees her daughter again.</string>
+
+    <!-- Season 06 Episode 02 -->
+    <string name="title_season_06_episode_02">&#8220;Episode 2&#8221;</string>
+    <string name="story_season_06_episode_02">May 1, 2016</string>
+
+    <!-- Season 06 Episode 03 -->
+    <string name="title_season_06_episode_03">&#8220;Episode 3&#8221;</string>
+    <string name="story_season_06_episode_03">May 8, 2016</string>
+
+    <!-- Season 06 Episode 04 -->
+    <string name="title_season_06_episode_04">&#8220;Episode 4&#8221;</string>
+    <string name="story_season_06_episode_04">May 15, 2016</string>
+
+    <!-- Season 06 Episode 05 -->
+    <string name="title_season_06_episode_05">&#8220;Episode 5&#8221;</string>
+    <string name="story_season_06_episode_05">May 22, 2016</string>
+
+    <!-- Season 06 Episode 06 -->
+    <string name="title_season_06_episode_06">&#8220;Episode 6&#8221;</string>
+    <string name="story_season_06_episode_06">May 29, 2016</string>
+
+    <!-- Season 06 Episode 07 -->
+    <string name="title_season_06_episode_07">&#8220;Episode 7&#8221;</string>
+    <string name="story_season_06_episode_07">June 5, 2016</string>
+
+    <!-- Season 06 Episode 08 -->
+    <string name="title_season_06_episode_08">&#8220;Episode 8&#8221;</string>
+    <string name="story_season_06_episode_08">June 12, 2016</string>
+
+    <!-- Season 06 Episode 09 -->
+    <string name="title_season_06_episode_09">&#8220;Episode 9&#8221;</string>
+    <string name="story_season_06_episode_09">June 19, 2016</string>
+
+    <!-- Season 06 Episode 10 -->
+    <string name="title_season_06_episode_10">&#8220;Episode 10&#8221;</string>
+    <string name="story_season_06_episode_10">June 26, 2016</string>
+
+    <!-- Character Stark Eddard -->
+    <string name="title_character_stark_eddard">Eddard Stark</string>
+    <string name="background_character_stark_eddard">Eddard Stark is the head of House Stark and Lord
+        Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms,
+        and House Stark is one of the Great Houses of the realm. House Stark rules the region from
+        their seat of Winterfell, and Eddard also holds the title Lord of Winterfell. In addition,
+        he is the Warden of the North. \n\n Eddard is married to Lady Catelyn of House Tully.
+        Though they barely knew one another when they wed, they formed a strong and loving
+        marriage. They have five legitimate children: Robb, Sansa, Arya, Bran and Rickon. Eddard
+        also has an illegitimate bastard son, Jon Snow, reportedly by a common serving girl named
+        Wylla. Jon&#8217;s presence at Winterfell is a source of friction between Eddard and his wife.
+        Nevertheless, Eddard was close to all his children and was well-loved and respected by all
+        of them. He seemed to have a soft spot for his youngest daughter, Arya. \n\n Eddard is the
+        second son of Lord Rickard Stark. Lord Rickard served King Aerys II Targaryen as Warden of
+        the North. Eddard&#8217;s older brother Brandon was Rickard&#8217;s heir. Eddard also has a younger
+        sister Lyanna and a younger brother Benjen. Eddard is a stoic, dutiful, and honorable man
+        and is considered to embody the values of the North. \n\n Eddard is a trusted, close friend
+        and counselor of King Robert Baratheon. He supported Robert&#8217;s play for the throne by
+        acting as a general in several major battles. Eddard&#8217;s sister Lyanna, who was betrothed to
+        Robert, was kidnapped by Prince Rhaegar Targaryen, sparking the war. Brandon protested the
+        kidnapping, but his attempt to bring Rhaegar to justice failed. Lord Rickard was summoned
+        to court in King&#8217;s Landing by Aerys, and both Brandon and Rickard were executed by the Mad
+        King. Their deaths left Eddard to inherit Rickard&#8217;s responsibilities, serving King Robert
+        instead. Brandon had been betrothed to Catelyn, and Eddard also inherited his brother&#8217;s
+        bride. Lyanna died in Eddard&#8217;s arms during the conflict. Despite his happy family life,
+        Eddard still felt the losses of his family quite keenly, often visiting his sister&#8217;s tomb
+        to light a candle for her as his daughter, Sansa, remembered. \n\n Eddard&#8217;s other younger
+        sibling, Benjen, still lives and is a member of the Night&#8217;s Watch, an institution of which
+        Eddard is a keen supporter. He also appeared to have troubles keeping his bannermen in
+        line as Stannis Baratheon remembered his brother, Robert, saying the Northmen were
+        difficult to control, even with Eddard on his side. \n\n Eddard wields a Valyrian
+        greatsword named Ice (an heirloom of House Stark) which he uses on ceremonial
+        occasions.</string>
+
+    <!-- Character Stark Catelyn -->
+    <string name="title_character_stark_catelyn">Catelyn Stark</string>
+    <string name="background_character_stark_catelyn">Catelyn was born into House Tully and is the
+        eldest child of Lord Hoster Tully. She has a younger brother, Edmure, and a younger sister,
+        Lysa. Petyr Baelish was fostered with the Tullys and Catelyn grew up with him. She was
+        betrothed to marry Brandon Stark of Winterfell, but he was brutally murdered by the Mad
+        King, Aerys II Targaryen after Prince Rhaegar had kidnapped Brandon&#8217;s sister Lyanna.
+        Catelyn instead married Brandon&#8217;s brother, Eddard. Though they barely knew one another when
+        they wed they have formed a strong and loving marriage. \n\n Catelyn and Eddard have five
+        children: Robb, Sansa, Arya, Bran and Rickon. She is unhappy with Eddard&#8217;s bastard son Jon
+        Snow living with her family in Winterfell, the only source of friction between her and her
+        husband. \n\n Catelyn has some independent political influence. A former ward of her
+        father&#8217;s, Petyr Baelish, known as &#8220;Littlefinger&#8221;, is the king&#8217;s master of coin and one of
+        his closest advisers in King&#8217;s Landing. \n\n Catelyn says that she hasn&#8217;t been to the
+        capital city of King&#8217;s Landing since nine years before her husband went there to be the
+        new Hand of the King, which would be around the time of the Greyjoy Rebellion.</string>
+
+    <!-- Character Stark Robb -->
+    <string name="title_character_stark_robb">Robb Stark</string>
+    <string name="background_character_stark_robb">Robb is the eldest child of Lady Catelyn and Lord
+        Eddard Stark. Eddard is the head of House Stark, Lord of Winterfell and Lord Paramount of
+        the North, one of the constituent regions of the Seven Kingdoms. The Starks rule the region
+        from their seat of Winterfell. Eddard is also the Warden of the North to King Robert
+        Baratheon. \n\n Robb was born at Riverrun and raised in Winterfell. His father left his
+        mother the morning after their wedding to fight in Robert&#8217;s Rebellion and did not return
+        until after Robb was born. He has two younger trueborn brothers, Bran and Rickon, and two
+        sisters, Sansa and Arya. He is also close to his bastard half-brother, Jon Snow, and to
+        his father&#8217;s ward, Theon Greyjoy, whom he counts as his best friend outside of the family.
+        He has been trained from childhood to wield a sword and wear armor by Winterfell&#8217;s
+        Master-at-Arms Ser Rodrik Cassel, and is highly proficient with both for his young age.
+        He lives at Winterfell with his family.</string>
+
+    <!-- Character Stark Sansa -->
+    <string name="title_character_stark_sansa">Sansa Stark</string>
+    <string name="background_character_stark_sansa">Sansa Stark is the eldest daughter and second
+        child of Lady Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord
+        Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms
+        and House Stark is one of the Great Houses of the realm. House Stark rules the region from
+        their seat of Winterfell and Eddard also holds the titles of Lord of Winterfell and the
+        Warden of the North to King Robert Baratheon. \n\n Sansa was born and raised at Winterfell.
+        She has an older brother, Robb, two younger brothers, Bran and Rickon, a younger sister,
+        Arya and a bastard half-brother, Jon Snow. Sansa enjoys proper &#8220;lady-like&#8221; pursuits, and is
+        good at sewing, embroidering, poetry, singing, dancing, literature and music. She dreams of
+        being a regal Queen like Cersei Lannister, and that just like in the epic songs she will
+        meet her knight in shining armor. She has inherited her mother&#8217;s Tully coloring, unlike
+        most of her siblings, and Lady Catelyn thinks Sansa will be even more beautiful than she
+        was when she was younger. She is often seen in contrast with her sister, Arya Stark who
+        has neither her looks nor her accomplishments in feminine activities and
+        comportment.</string>
+
+    <!-- Character Stark Arya -->
+    <string name="title_character_stark_arya">Arya Stark</string>
+    <string name="background_character_stark_arya">Arya Stark is the youngest daughter and third
+        child of Lady Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord
+        Paramount of the North. The North is one of the constituent regions of the Seven Kingdoms
+        and House Stark is one of the Great Houses of the realm. House Stark rules the region from
+        their seat of Winterfell and Eddard also holds the title Lord of Winterfell. He is also the
+        Warden of the North to King Robert Baratheon. \n\n Arya was born and raised at Winterfell.
+        She has an older sister, Sansa Stark. She also has an older brother, Robb, two younger
+        brothers, Bran and Rickon and a bastard half-brother, Jon Snow. \n\n Arya rejects the
+        notion that she must become a lady and marry for influence and power, feeling she can
+        forge her own destiny. She is fascinated by warfare and training in the use of arms, and
+        is bored by embroidery and other &#8220;lady-like&#8221; pursuits. She takes after her father and has
+        a quarrelsome relationship with her sister Sansa, due to their contrasting interests and
+        personalities. She is close to her half-brother Jon, who is also something of an
+        outcast.</string>
+
+    <!-- Character Stark Bran -->
+    <string name="title_character_stark_bran">Bran Stark</string>
+    <string name="background_character_stark_bran">Bran is the fourth child and second son of Lady
+        Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord Paramount of the
+        North. The North is one of the constituent regions of the Seven Kingdoms and House Stark is
+        one of the Great Houses of the realm. House Stark rules the region from their seat of
+        Winterfell and Eddard also holds the title Lord of Winterfell. He is also the Warden of
+        the North to King Robert Baratheon. \n\n Bran was born and raised at Winterfell. He has an
+        older brother Robb, and a younger brother Rickon. He has two older sisters, Sansa and Arya.
+        He also has a bastard half-brother, Jon Snow. He is 10 years old at the start of the series.
+        He was named for Eddard&#8217;s elder brother, Brandon, who was slain by the Mad King. He is only
+        called &#8220;Brandon&#8221; by his mother when he has done something wrong. He dreams of being a
+        knight of the Kingsguard and one day becoming a bannerman for his brother, Robb. His
+        favorite hobby is climbing the walls of Winterfell and using its old rooftops and
+        passageways to get around.</string>
+
+    <!-- Character Stark Rickon -->
+    <string name="title_character_stark_rickon">Bran Stark</string>
+    <string name="background_character_stark_rickon">Rickon is the fifth child and youngest son of
+        Lady Catelyn and Lord Eddard Stark. Eddard is the head of House Stark and Lord Paramount of
+        the North. The North is one of the constituent regions of the Seven Kingdoms and House
+        Stark is one of the Great Houses of the realm. House Stark rule the region from their seat
+        of Winterfell and Eddard also holds the title Lord of Winterfell. He is also the Warden of
+        the North to King Robert Baratheon. \n\n Rickon was born and raised at Winterfell. He has
+        two older brothers, Robb and Bran, and two older sisters, Sansa and Arya. He also has an
+        older bastard half-brother, Jon Snow. He is six-years-old when his uncle and Hand of the
+        King, Lord Jon Arryn, dies.</string>
+
+    <!-- Character Snow Jon -->
+    <string name="title_character_snow_jon">Jon Snow</string>
+    <string name="background_character_snow_jon">Jon is the bastard son of Lord Eddard Stark of
+        Winterfell, the head of House Stark and Lord Paramount of the North. The North is one of
+        the constituent regions of the Seven Kingdoms in Westeros, and House Stark is one of the
+        Great Houses of the realm. House Stark rules the region from their seat of Winterfell and
+        Eddard also holds the title Lord of Winterfell. Eddard is also the Warden of the North to King
+        Robert Baratheon. \n\n Eddard once told King Robert Baratheon that Jon&#8217;s mother is a
+        serving girl named Wylla, but refused to elaborate any further. Jon himself has no
+        knowledge of his mother, not knowing if she&#8217;s alive or not. \n\n Jon was raised at
+        Winterfell on an equal footing with Eddard&#8217;s legitimate children. He has an older
+        half-brother Robb, two younger half-sisters Sansa and Arya, and two younger half-brothers
+        Bran and Rickon. Jon&#8217;s presence at Winterfell is a source of friction between Eddard and
+        his wife, Catelyn, although Catelyn put aside her anger temporarily when the infant Jon
+        became severely ill. Jon got on well with his half-siblings, particularly Robb and
+        Arya.</string>
+
+    <!-- Character Brynden Tully -->
+    <string name="title_character_tully_brynden">Brynden Tully</string>
+    <string name="background_character_tully_brynden">Brynden Tully is the younger brother of
+        Hoster Tully, Lord of Riverrun and head of House Tully, and the uncle of Catelyn Stark,
+        Edmure Tully, and Lysa Arryn. Brynden is a respected knight and formidable battle
+        commander, who first distinguished himself in the War of the Ninepenny Kings, nearly forty
+        years before the War of the Five Kings. \n\n Brynden often argued with his older brother
+        Hoster, particularly over the fact that Brynden never married. When Brynden returned home
+        from the War of the Ninepenny Kings, Hoster had already arranged for him to marry Bethany
+        Redwyne, of the wealthy and powerful House Redwyne. Brynden refused this generous match,
+        however, refusing to be told when and whom to marry. Hoster was angry that Brynden would
+        not do his duty to their family and enter into a marriage-alliance to improve their
+        fortunes, and said that he was the black goat of the Tully herd. Brynden joked that given
+        that the Tully sigil is a trout, it would be more fitting to say that he was the &#8220;black
+        fish&#8221; of the Tully school. The nickname stuck, and Ser Brynden became popularly known as
+        &#8220;The Blackfish&#8221; ever since. Brynden even took to using a black fish in his own personal
+        heraldry: like the standard Tully heraldry it uses a red and blue background, but swaps
+        out the normal silver trout for a black one. Hoster would attempt to contract other
+        arranged marriage-alliances for Brynden over the years, many of them very promising
+        matches, but Brynden turned down them all, which led to constant bickering between the
+        two brothers throughout their lives. \n\n Despite his disagreements with his brother over
+        his refusal to marry, Brynden is very devoted to his family.</string>
+
+    <!-- Character Edmure Tully -->
+    <string name="title_character_tully_edmure">Edmure Tully</string>
+    <string name="background_character_tully_edmure">Ser Edmure is the son and heir of Lord Hoster
+        Tully. Edmure is the new head of House Tully and thus has recently become the Lord of
+        Riverrun and Lord Paramount of the Riverlands. The Riverlands are one of the constituent
+        regions of the Seven Kingdoms and House Tully is one of the Great Houses of the realm.
+        Riverrun is the ancestral seat of House Tully. \n\n Edmure&#8217;s mother Minisa Tully died in
+        childbirth during his early childhood. He has two elder sisters Catelyn and Lysa. He was
+        also raised with his father&#8217;s ward, Petyr Baelish. It was Edmure who first nicknamed him
+        &#8220;Littlefinger.&#8221;</string>
+
+    <!-- Character Tywin Lannister -->
+    <string name="title_character_lannister_tywin">Tywin Lannister</string>
+    <string name="background_character_lannister_tywin">Tywin is the lord of House Lannister, the
+        Lord Paramount of the Westerlands, and the richest man in the Seven Kingdoms. The
+        Westerlands are one of the constituent regions of the Seven Kingdoms and House Lannister
+        is one of the Great Houses of the realm. House Lannister rule the region from their seat
+        of Casterly Rock and Tywin also holds the title Lord of Casterly Rock. He is also the
+        Warden of the West. He is a widower with three children, Jaime, Cersei and Tyrion.​
+        Casterly Rock, the Lannister&#8217;s ancestral seat of power, is located over a group of highly
+        productive goldmines, which have provided the Lannisters with immense wealth over the years
+        and led to the speculation that Tywin &#8220;shits gold.&#8221; \n\n Tywin is the son of Tytos
+        Lannister. His father presided over a period of decline for the house, frittering away
+        much of their fortune on poor investments and allowing himself to be mocked at court,
+        creating a perception of weakness. Their vassals House Reyne of Castamere rebelled against
+        Lord Tytos, and Tywin put down the rebellion personally, extinguishing their house and
+        re-establishing the fearsome reputation of House Lannister. His ruthless destruction of
+        House Reyne was immortalized in the song &#8220;The Rains of Castamere&#8221; and gave darker meaning
+        to the common phrase &#8220;A Lannister always pays his debts,&#8221; which originally referred solely
+        to the Lannister&#8217;s vast fortune. \n\n Tywin married his cousin Joanna Lannister and their
+        first children were the fraternal twins Cersei and Jaime. She died after giving birth to
+        Tyrion, which Tywin has blamed his son for ever since. When Jaime was diagnosed with a
+        learning difficulty by a Maester who predicted that he would never read, Tywin sat with
+        his son for four hours a day until he overcame his problems with transposing letters in
+        his mind, much to Jaime&#8217;s resentment. Tywin despises and hates his younger son, seeing him
+        as misshapen and perverse. When Tyrion was very young, Jaime set him up with a prostitute.
+        Jaime posed her as a common girl in distress that they rescued from bandits. Jaime chased
+        the bandits off while Tyrion comforted the girl. They married, but when Tywin found out he
+        was furious and made Jaime reveal the truth. Tywin paid her for every one of his guards to
+        have sex with her and forced Tyrion to watch. Tyrion&#8217;s hatred of Tywin has been
+        reciprocated since. Nevertheless, all of Tywin&#8217;s children are in awe of him and heed his
+        counsel. \n\n Tywin served as Hand of the King to Aerys II Targaryen for twenty years until
+        the Mad King, driven by envy and distrust, rejected Tywin&#8217;s proposal to marry his daughter
+        Cersei to Prince Rhaegar and made his son Jaime a member of the Kingsguard. As members of
+        the Kingsguard are forbidden to marry, Aerys had effectively robbed Tywin of his heir,
+        which Tywin perceived as a great insult and resigned. During Robert&#8217;s Rebellion Tywin
+        remained neutral, answering neither the summons of the King nor the calls from the rebels,
+        until the Battle of the Trident, after which it became clear that the rebels would win.
+        Tywin marched with the full power of Casterly Rock to the capital, feigning that he had
+        come to defend it from the rebellion. Aerys&#8217; advisors urged the King not to trust Tywin,
+        even Jaime Lannister, who knew his father would never back the losing side in a war.
+        Nevertheless, on Pycelle&#8217;s advice, the gates were opened to the Lannister army. Tywin
+        ordered the city to be taken and the royal family eliminated in a quick and efficient
+        manner; as a result the city was sacked and the royal family massacred by Ser Gregor
+        Clegane. Upon seeing Tywin&#8217;s betrayal, Aerys ordered Jaime to bring him Tywin&#8217;s head and
+        instructed his royal pyromancer to set King&#8217;s Landing ablaze. Jaime responded by
+        personally stabbing the Mad King in the back. When Robert Baratheon and Eddard Stark
+        reached the Red Keep, Tywin presented the bodies of the royal family as proof of his
+        allegiance. After the rebellion Robert Baratheon took the throne and married Tywin&#8217;s
+        daughter Cersei to cement the alliance between their houses. \n\n Cersei gave birth to
+        three children--Joffrey, Myrcella, and Tommen Baratheon. Unbeknownst to Tywin all three
+        children are the product of her incestuous relationship with Jaime. This was discovered by
+        both Jon Arryn and Eddard Stark, albeit independently, and meant that Joffrey—the oldest
+        of the Baratheon children and the heir apparent to the Iron Throne—had no actual claim to
+        the throne. Tywin is close to his younger brother, Kevan who is his chief advisor, and
+        Kevan&#8217;s son Lancel was King Robert&#8217;s squire, and many secretly believe Lancel gave Robert
+        too much wine during his fatal hunt on Cersei&#8217;s orders.</string>
+
+
+    <!-- Character Cersei Lannister -->
+    <string name="title_character_lannister_cersei">Cersei Lannister</string>
+    <string name="background_character_lannister_cersei">Cersei is the only daughter and eldest
+        child of Joanna Lannister and Lord Tywin Lannister. Tywin is the head of House Lannister,
+        the richest man in the Seven Kingdoms and Lord Paramount of the Westerlands. The Westerlands
+        are one of the constituent regions of the Seven Kingdoms and House Lannister is one of the
+        Great Houses of the realm. Cersei is the elder twin of Ser Jaime Lannister and the elder
+        sister of Tyrion Lannister. She was raised in privilege in the family seat of Casterly Rock.
+        She is noted for her great beauty. \n\n Cersei&#8217;s mother died when she was four years old,
+        after giving birth to her younger brother Tyrion. Like her father, Cersei has always blamed
+        Tyrion for her mother&#8217;s death and deeply resents that her mother died so that Tyrion would
+        be brought into the world. Cersei&#8217;s father Tywin was constantly away from home during her
+        childhood and teenaged years, serving as Hand of the King at the capital, with only
+        infrequent visits back to his seat at Casterly Rock. Coupled with the death of her mother,
+        this meant that Cersei and her two brothers were primarily raised by servants attached to
+        House Lannister. She began an incestuous relationship with Jaime in her youth which has
+        continued despite her marriage. Cersei has had other partners but Jaime has always been
+        faithful to her. \n\n When she was about fifteen, Cersei and her friend Melara visited
+        Maggy, a woods witch and reputed fortune teller dwelling in a hut deep in a forest close to
+        Casterly Rock. Melara was reluctant, but Cersei convinced her to go. After rudely awakening
+        her and insisting on having her future foretold, Maggy tasted a drop of her blood and
+        revealed to Cersei she wouldn&#8217;t marry &#8220;the Prince&#8221; but &#8220;the King&#8221;, and while the king would
+        have twenty sons, she would bear only three children who will wear golden crowns as well as
+        golden shrouds. Finally, she revealed to Cersei that although she would indeed be Queen,
+        she would be cast down by another, younger and more beautiful queen. \n\n After the end of
+        the civil war which ended the reign of House Targaryen, Cersei was married to King Robert
+        Baratheon, a political marriage Robert agreed to in thanks for her father&#8217;s last-minute
+        alliance. She was only 19 when she married Robert and became Queen. At first, Cersei
+        was infatuated with the handsome Robert, but their love begun to wane when he called her
+        &#8220;Lyanna&#8221; on their wedding night. She nevertheless bore Robert a son who died shortly
+        after his birth. Cersei was devastated by her son&#8217;s loss and refused to have the body taken
+        from her, forcing Robert to hold her while they took her son from her. In time, Cersei&#8217;s
+        feelings for Robert turned to hatred and she returned to her brother as a result. Her three
+        children, Joffrey, Myrcella and Tommen, are officially Robert&#8217;s, but in reality are the
+        products of her incestuous relationship with Jaime.</string>
+
+    <!-- Character Jaime Lannister -->
+    <string name="title_character_lannister_jaime">Jaime Lannister</string>
+    <string name="background_character_lannister_jaime">Ser Jaime Lannister is a knight of the
+        Kingsguard, a position he has held for twenty years since he was a teenager, the youngest
+        man ever appointed to its membership. He was appointed to the position by the Mad King,
+        Aerys II Targaryen. \n\n At the conclusion of Robert&#8217;s Rebellion, Jaime&#8217;s father Tywin
+        arrived at the gates of King&#8217;s Landing with the main Lannister army, pledging his
+        allegiance. Most of the Small Council urged Aerys not to trust Tywin, especially Jamie,
+        knowing his father would never support the losing side of a war. Instead, Grand Maester
+        Pycelle gave the opposite counsel, and once the Lannister army was allowed inside, Tywin
+        ordered his men to attack the city. As Lannister soldiers raped and pillaged throughout the
+        city during the Sack of King&#8217;s Landing, King Aerys remained holed up inside the Red Keep,
+        for hours maniacally repeating the order to &#8220;burn them all&#8221;. Despite being sworn by the
+        holiest oaths to protect the king as a member of the Kingsguard, Jaime ultimately turned
+        his own sword on Aerys, slaying him at the foot of the Iron Throne itself. For this
+        infamous act, he is known throughout the Seven Kingdoms as the &#8220;Kingslayer&#8221;, to his
+        irritation. \n\n Jaime always refused to discuss precisely what happened the day he slew
+        the Mad King, and thus his true motivations– and what plans Aerys had for King&#8217;s Landing–
+        were never revealed. On one occasion he confides the truth to Brienne of Tarth: Aerys&#8217;
+        final orders were for Jaime to kill his father, and to burn the entire city and its
+        inhabitants with wildfire. Unwilling to let that happen, Jaime killed him, and in doing so
+        actually saved thousands of innocent lives. He adds that the &#8220;honorable&#8221; Ned Stark judged
+        him guilty on the spot, without giving Jamie a chance to explain. \n\n He was forgiven for
+        breaking his vows by King Robert Baratheon and permitted to remain in the Kingsguard as
+        part of Robert&#8217;s alliance with House Lannister, along with the marriage of Jaime&#8217;s twin
+        sister Cersei to Robert. In addition to the slaying of the Mad King, Jaime is known for
+        his handsome looks, arrogant demeanor, and superb martial skills. He is so skilled with
+        a sword that he claims that there are only three men in the seven kingdoms who may have a
+        chance at beating him in a fair duel. \n\n Jaime is the eldest son of Joanna Lannister and
+        Lord Tywin Lannister. Tywin is the head of House Lannister, the richest man in the Seven
+        Kingdoms and Lord Paramount of the Westerlands. The Westerlands are one of the constituent
+        regions of the Seven Kingdoms and House Lannister is one of the Great Houses of the realm.
+        Jaime had great difficulty learning to read as a child because he transposed letters in his
+        mind. Tywin sat with him through four hours a day practicing until he learnt. Jaime
+        resented being forced to spend so much time on reading. \n\n Jaime is the older brother of
+        Tyrion and the twin brother of Cersei. Their mother died giving birth to Tyrion. Due to his
+        place in the Kingsguard, Jaime cannot inherit his father&#8217;s lands or titles, making Tyrion
+        his father&#8217;s heir; a fact which vexes Tywin. Unlike Cersei and Tywin, Jaime always treated
+        Tyrion with a degree of kindness and respect. In a secret known to only a few, Jaime is
+        Cersei&#8217;s lover and the biological father of her children, Joffrey, Myrcella, and Tommen,
+        whom the world believes are Robert&#8217;s kin.</string>
+
+    <!-- Character Tyrion Lannister -->
+    <string name="title_character_lannister_tyrion">Tyrion Lannister</string>
+    <string name="background_character_lannister_tyrion">Tyrion Lannister is the youngest son of
+        Joanna Lannister and Lord Tywin Lannister. Tywin is the head of House Lannister, the
+        richest man in the Seven Kingdoms and Lord Paramount of the Westerlands. The Westerlands
+        are one of the constituent regions of the Seven Kingdoms and House Lannister of Casterly
+        Rock is one of the Great Houses of the realm. He is the younger brother of Jaime and Cersei
+        Lannister. His mother Joanna Lannister died giving birth to him. His father and sister hold
+        him in contempt as they blame him for the death. \n\n He is a dwarf, causing him problems
+        and persecution. His size has led him to being referred to derisively by various names,
+        such as &#8220;The Imp&#8221; and &#8220;The Halfman&#8221;. This is mitigated by his intellect and his family&#8217;s
+        wealth and power. Had an infant with dwarfism like Tyrion been born a commoner, he&#8217;d have
+        simply been left out in the woods to die. However, Tyrion was born into a powerful noble
+        House, and was therefore spared. Even though his father doesn&#8217;t think much of him, he has
+        had the benefits of being raised with wealth and education, and is expected to lead his
+        life as a credit to the Lannister name. He is committed to the good of both his House
+        and, since Cersei married King Robert Baratheon, his family&#8217;s continued hold on the throne.
+        \n\n When Tyrion was 16, he met a wheelwright&#8217;s daughter named Tysha on the road,
+        apparently the victim of an attempted rape. While his brother Jaime ran off the attackers,
+        Tyrion helped Tysha recover from the ordeal, and they became lovers. They found a drunken,
+        wandering septon willing to marry them and briefly, they lived as husband and wife. That
+        is, until Lord Tywin learned what had happened. Jaime confessed that he organized the
+        incident to make his brother happy, and Tysha was actually a prostitute. As a lesson, Tywin
+        gave Tysha to his guards, paying her a silver coin for each man and forcing Tyrion to watch.
+        By the end, there were so many silver coins that they were running out of her hands onto
+        the ground. Tyrion has reciprocated Tywin&#8217;s hatred ever since. \n\n His two siblings have
+        had positions of respect and responsibility since their teens. When Tyrion turned sixteen
+        (the age of manhood), Tywin Lannister put Tyrion in charge of the drains and cisterns at
+        Casterly Rock. Tyrion brags that the &#8220;[sewage] never flowed [smoother] to the sea.&#8221; \n\n
+        Tyrion once encountered Lord Gregor Forrester at the Tourney in Lannisport. While they once
+        spoke briefly, Tyrion found Gregor very honorable, even mentioning it to Gregor&#8217;s daughter
+        Mira years later. \n\n Tyrion spends a lot of time at court in King&#8217;s Landing to avoid his
+        father. He gets on well with Jaime and his niece Myrcella and nephew Tommen, but has a
+        colder relationship with Cersei and his sadistic nephew Joffrey. He has a fondness for
+        prostitutes and drink, but is also intelligent, cunning, and educated. He also is a kind
+        man who would protect the innocent claiming that he loves broken things.</string>
+
+    <!-- Character Joffrey Baratheon -->
+    <string name="title_character_baratheon_joffrey">Joffrey Baratheon</string>
+    <string name="background_character_baratheon_joffrey">Joffrey is believed to be the oldest son
+        and heir of King Robert Baratheon and Queen Cersei Lannister, both of whom entered into a
+        political marriage alliance after Robert took the throne by force from the Mad King Aerys
+        II Targaryen. In reality, his father is Jaime Lannister, the queen&#8217;s brother and the Lord
+        Commander of the Kingsguard. He has a younger sister, Myrcella, and a younger brother,
+        Tommen , both whom are also the product of Jaime and Cersei&#8217;s incest. Their sole biological
+        grandparents, Tywin and Joanna Lannister, were also apparently first cousins. \n\n Joffrey
+        takes after his mother in terms of looks and personality, his blonde hair being a subtle
+        clue that he isn&#8217;t really a Baratheon, who famously always possess black hair even when
+        one of their parents possesses blonde hair. (Cersei herself lets it slip to Catelyn Stark
+        that she once had a child with black hair who died prematurely before she had Joffrey.) He
+        is usually accompanied by his sworn shield, the formidable Sandor Clegane, better known as
+        the Hound. Even before he ascends to the Iron Throne, Joffrey is spoiled, arrogant,
+        cowardly, and sadistic; however these traits are further exacerbated upon Robert&#8217;s death
+        and his ascension to the crown.</string>
+
+    <!-- Character Myrcella Baratheon -->
+    <string name="title_character_baratheon_myrcella">Myrcella Baratheon</string>
+    <string name="background_character_baratheon_myrcella">Princess Myrcella was commonly thought
+        to be the only daughter of King Robert Baratheon and Queen Cersei Lannister. Cersei and
+        Robert married to seal a political alliance between House Baratheon and House Lannister
+        after Robert took the throne by force from the Mad King Aerys II Targaryen. Myrcella had an
+        older brother, Joffrey, and a younger, Tommen, with whom she was close. The real father of
+        all three children is Jaime Lannister, her uncle (Cersei&#8217;s twin brother) and a member of
+        the Kingsguard, making them bastards born of incest. However, like her siblings and the
+        rest of Westeros, Myrcella had no idea of the truth of her parentage at the time. She had a
+        sweet and quiet disposition and was fond of her uncle Tyrion Lannister.</string>
+
+    <!-- Character Tommen Baratheon -->
+    <string name="title_character_baratheon_tommen">Tommen Baratheon</string>
+    <string name="background_character_baratheon_tommen">Tommen is presented as the youngest son of
+        King Robert Baratheon and Queen Cersei Lannister. Cersei and Robert made a political
+        marriage alliance after Robert took the throne by force from the Mad King Aerys II
+        Targaryen. Tommen&#8217;s real father is Jaime Lannister, his mother&#8217;s twin brother and his uncle.
+        \n\n He has an older brother, Joffrey, and an older sister Myrcella with the same
+        obfuscated parentage. Tommen is good-natured and passive in contrast to his brother
+        Joffrey, who sometimes bullied Tommen for amusement. Like his sister, he is fond of his
+        uncle Tyrion.</string>
+
+    <!-- Character Kevan Lannister -->
+    <string name="title_character_lannister_kevan">Kevan Lannister</string>
+    <string name="background_character_lannister_kevan">Kevan is the second son of the late Lord
+        Tytos Lannister. He is the brother of Lord Tywin Lannister the head of House Lannister
+        and Lord of Casterly Rock. Kevan is married to Dorna Lannister and they have a son Lancel,
+        who is a squire to King Robert Baratheon. He is a noted knight who served his elder brother
+        loyally as an adviser, and is respected for his wise and candid counsel.</string>
+
+    <!-- Character Lancel Lannister -->
+    <string name="title_character_lannister_lancel">Lancel Lannister</string>
+    <string name="background_character_lannister_lancel">Lancel Lannister is the son of Ser Kevan
+        Lannister and the nephew of Lord Tywin Lannister, the head of House Lannister and Lord of
+        Casterly Rock. He is the first cousin of Jaime, Cersei, and Tyrion Lannister. He has the
+        familial blond hair and resembles his cousin Jaime. He is a squire to King Robert
+        Baratheon.</string>
+
+    <!-- Character Bronn -->
+    <string name="title_character_bronn">Bronn</string>
+    <string name="background_character_bronn">Bronn is a sellsword; a mercenary soldier whose
+        service as a warrior is for hire. Not much is known about his past or family. Both his
+        parents beat him, and his nose was accidentally broken when his mother hit him with
+        kitchenware, which she had meant for Bronn&#8217;s younger brother. When Tyrion Lannister
+        introduced him to Tywin Lannister, Bronn said that his father is no one Lord Tywin would
+        know. During a drinking game with Tyrion and Shae, Bronn claims that he killed a woman
+        before he was 12 years old, though it was in self-defense as she was attacking him with an
+        axe. Bronn also confirmed Tyrion&#8217;s claim that Bronn has been beyond the Wall. When asked
+        why he was there, he bluntly answers that it was &#8220;work&#8221;.</string>
+
+    <!-- Character Qyburn -->
+    <string name="title_character_qyburn">Qyburn</string>
+    <string name="background_character_qyburn">Qyburn is a former maester of the Citadel. He was
+        stripped of his chain by the Archmaesters for engaging in forbidden human experimentation:
+        it was discovered that he had been vivisecting living men in his pursuit of medical
+        knowledge. Qyburn held to the belief that the death of a few men was justifiable if it
+        would lead to medical breakthroughs that would save the lives of many more. \n\n While his
+        unethical experiments have led to him being reviled, they also made him arguably one of
+        the most talented healers in all of Westeros.</string>
+
+    <!-- Character Pycelle -->
+    <string name="title_character_pycelle">Pycelle</string>
+    <string name="background_character_pycelle">Pycelle has been Grand Maester of the Seven
+        Kingdoms for decades and has served under four kings when the series begins. The Grand
+        Maester is the King&#8217;s personal maester, a learned man wise in history, science and
+        medicine who also provides counsel. The Grand Maester sits on the King&#8217;s small council,
+        which runs the realm in the name of the King. He served King Aerys II Targaryen prior to
+        Robert&#8217;s Rebellion. He remembers Aerys as a great man before his descent into madness.
+        When Tywin Lannister marched to the gates of King&#8217;s Landing following the rebel victory at
+        the Battle of the Trident and all of the King&#8217;s advisors told Aerys not to trust the Lord
+        of Casterly Rock, Pycelle gave the opposite counsel and the city gates were opened,
+        allowing the Lannister forces to sack the capital. \n\n Following the rebellion he remained
+        Grand Maester to King Robert Baratheon. He is joined on the small council by the Master of C
+        oin Petyr Baelish, also called Littlefinger, the Master of Whisperers Varys, the Master of
+        Ships Stannis Baratheon and the Master of Laws Renly Baratheon. He plays up his age to
+        appear harmless but is actually mentally sharp and dangerous. He is loyal to Queen Cersei
+        Lannister and was involved in the birth of all of her children, assisted by midwives.
+        Pycelle also privately flouts the vow of celibacy taken by maesters, as he enjoys the
+        company of prostitutes such as Ros. Despite his tendency for deception, he does retain some
+        sense of medical ethics, as he found Qyburn&#8217;s methods abhorrent.</string>
+
+    <!-- Character Petyr Baelish -->
+    <string name="title_character_baelish_petyr">Petyr Baelish</string>
+    <string name="background_character_baelish_petyr">Petyr Baelish is the head of House Baelish,
+        and the lord of an extremely minor holding, so small it has neither name nor maester,
+        located in a small area within the Fingers, a coastal region in the northeastern shores of
+        the Vale of Arryn. He is currently House Baelish&#8217;s only living member. \n\n House Baelish
+        had very meager origins and no distinguished lineage: Petyr&#8217;s great-grandfather was a
+        lowly sellsword from Braavos who came to the Vale at the invitation of House Corbray.
+        Petyr&#8217;s grandfather was a poor hedge knight, who managed to earn a minor lordship of a few
+        stony acres in the smallest peninsula of the Fingers. \n\n Petyr&#8217;s father fought in the War
+        of the Ninepenny Kings, the preemptive assault on the forces of Maelys Blackfyre, the last
+        of the Blackfyre Pretenders, before they could attempt an invasion of Westeros. During the
+        conflict Petyr&#8217;s father served well under Lord Hoster Tully. Through their good
+        relationship Hoster agreed to foster his son Petyr at Riverrun, a great honor for a lesser
+        House. \n\n Petyr went to Riverrun when he was eight years old, carrying all he owned in a
+        bundle. At Riverrun he befriended Hoster&#8217;s daughters Catelyn and Lysa Tully. Their brother
+        Edmure mockingly nicknamed him &#8220;Littlefinger&#8221; at the time, in reference to his small height
+        at the time and the location of his minor landholdings. The nickname would stick with him
+        throughout his life. Eventually even Petyr sarcastically embraced the nickname, due to the
+        fact that it demonstrated how far he had risen, from an impoverished noble-born boy from an
+        insignificant minor House in the &#8220;little Finger&#8221; peninsula of the Vale, to one of the most
+        powerful officials at the royal court. \n\n Petyr became smitten with Catelyn but she never
+        returned his affections. Lysa was infatuated with Petyr, but he only loved Catelyn.
+        Eventually when she was betrothed to Brandon Stark, heir to Lord of Winterfell and Lord
+        Paramount of the North, Petyr challenged him to a duel, thinking he could win through pluck
+        and courage - he was promptly overpowered and nearly killed, though Catelyn begged Brandon
+        to spare his life. Embittered, Petyr was cast out of Riverrun and returned to the Vale.
+        During the course of Robert&#8217;s Rebellion, however, Brandon was killed by the Mad King Aerys
+        II Targaryen, so Catelyn married his younger brother Eddard Stark, while to secure a
+        political alliance Lysa was wed to Jon Arryn, ruler of the Vale. Manipulating Lysa&#8217;s
+        infatuation with himself, Petyr ingratiated himself into Jon&#8217;s services, first as customs
+        officer at Gulltown, where he increased the port&#8217;s revenues tenfold. Seeing Littlefinger&#8217;s
+        financial acumen, Jon was easily convinced by Lysa to later bring Littlefinger to the royal
+        court at King&#8217;s Landing, and make him Master of Coin on King Robert Baratheon&#8217;s Small
+        Council. Baelish&#8217;s naked ambition often placed him at odds with the Master of Whisperers,
+        Lord Varys. In charge of the crown&#8217;s treasury, Littlefinger rapidly grew into a powerful
+        player in royal politics and a master of court intrigues. Of an older mindset, few who did
+        not know him suspected Littlefinger as a threat, seeing only that he was a man from a very
+        minor House, with no distinguished lineage, significant landholdings, or armies. Instead,
+        Littlefinger based his newfound power on money. Baelish is unscrupulous in his search
+        for power and wealth: he has bought multiple brothels in the city - particularly a high
+        class brothel catering to the nobles in the city - cynically noting that whores make a
+        better investment than ships, because they rarely sink. Baelish makes good use of his
+        brothels to have his agents spy on and manipulate his clientele, and owns one of the
+        largest spy networks in Westeros - second only to Varys&#8217;s. Littlefinger has been known to
+        privately bribe lords who have unusual or violent sexual fetishes if they pay the right
+        price - ranging from supplying lords with amputee prostitutes, to delivering young boys to
+        pederasts, and even delivering prostitutes to be secretly murdered by his clients for
+        thrill-kills. \n\n Due to their past friendship as children, Catelyn Stark continued to
+        believe that Lord Baelish was a friend she could count on at court.</string>
+
+    <!-- Character Varys -->
+    <string name="title_character_varys">Varys</string>
+    <string name="background_character_varys">Varys was born across the Narrow Sea in Lys. He was
+        born a slave, and as a child he traveled with a troupe of actors all around the different
+        Free Cities until a sorcerer in the city of Myr made an offer Varys&#8217;s master couldn&#8217;t
+        refuse. Varys was sold to the sorcerer, who gave him a potion that made him unable to move
+        or speak but didn&#8217;t dull his perceptions or sense of pain, and emasculated him (cutting off
+        his testes and penis both) so he could use his sexual organs in a magical ritual, burning
+        them in a brazier. When the sorcerer had thrown Varys&#8217;s genitals in the brazier, the fire
+        turned blue and a voice replied back. Afterward, the sorcerer had no more use for Varys and
+        threw him in the streets to die. Instead, Varys resolved to live no matter what: begging,
+        stealing, and selling the sexual use of what parts remained to him, doing anything to
+        survive. He also became an excellent thief, but soon learned that stolen information was
+        often a far more valuable commodity than any physical goods, and he worked his way up from
+        the slums of Myr. He became a master spy and information trafficker, and his influence and
+        reputation grew so great that he eventually found himself as a member of the Small Council
+        in the Seven Kingdoms. His experience at the hands of the sorcerer had also left him with
+        a bitter hatred for magic and its practitioners. \n\n As a member of the King&#8217;s Small
+        Council, he serves as the Master of Whisperers, the King&#8217;s foremost spymaster and
+        intelligence agent. He holds no inherited title, castle, or lands in Westeros, but is
+        called &#8220;Lord&#8221; as a courtesy due to his position on the council, which traditionally is
+        made up of high lords. \n\n When the Mad King arrested Brandon Stark for threatening Prince
+        Rhaegar, Varys and the rest of the Small Council urged the King to pardon Brandon on the
+        grounds that he was the heir to Winterfell and the Prince had abducted his sister. However,
+        the King refused to heed their advice and had both Brandon and his father brutally
+        executed. This led to a rebellion that ultimately toppled the Targaryen dynasty. \n\n When
+        the Mad King&#8217;s former Hand Tywin Lannister arrived at King&#8217;s Landing with the entire
+        Lannister army at his back, professing loyalty to his beleaguered King after the rebels&#8217;
+        resounding victory at the Battle of the Trident, Varys warned Aerys not to open the gates,
+        as did Tywin&#8217;s own son in the Kingsguard, Jaime Lannister. However, Grand Maester Pycelle
+        told Aerys what he wanted to hear: that he could trust Lord Tywin. So Aerys opened the
+        gates and Tywin sacked the city, and Jaime wound up stabbing Aerys in the back. \n\n Despite
+        his previous loyalty to the Targaryens, Varys was pardoned by the new King Robert Baratheon
+        and allowed to keep his position on the Small Council under the advice of his Hand, Jon
+        Arryn. \n\n Varys is bald and tends towards fat, due to his castration. He often puts on
+        the public persona of being nothing more than a pudgy man well suited to the pleasantries
+        of court life; humble, obsequious, fawning, and a little effeminate. This is simply a
+        facade that Varys has developed, which often leads those who do not know him well to
+        underestimate him as a cheerful and vapid flatterer. In reality he is a cunning and
+        ruthless manipulator of court politics, on-par with Master of Coin Petyr &#8220;Littlefinger&#8221;
+        Baelish, with whom he frequently spars. Unlike Baelish, Varys insists that his goals are
+        to achieve what he honestly feels is best for the realm, though of course, what he and the
+        current King feel is best might be two separate things. \n\n He is disparagingly known as
+        &#8220;The Spider&#8221; due to his vast web of intelligence sources. His sophisticated intelligence
+        network - one of the largest in the world - spans both Westeros and Essos, as far as Vaes
+        Dothrak and even Qarth. He refers to his agents and sources of information- many of which
+        are low-born children- as his &#8220;little birds&#8221;. Unlike Baelish, however, Varys is not
+        indifferent or cruel towards his employees; he educates them and provides them with
+        protection in return for the information they bring him. \n\n One of his jobs is to keep an
+        eye on the movements of Viserys and Daenerys Targaryen and ensure they do not become a
+        threat to King Robert&#8217;s reign.</string>
+
+    <!-- Character Margaery Tyrell -->
+    <string name="title_character_tyrell_margaery">Margaery Tyrell</string>
+    <string name="background_character_tyrell_margaery">Margaery is the only daughter of Lady
+        Alerie Tyrell and Lord Mace Tyrell, the Lord Paramount of the Reach. The Reach is one of
+        the constituent regions of the Seven Kingdoms and House Tyrell is one of the Great Houses
+        of the realm. Margaery was raised in privilege in the family seat and regional capital of
+        Highgarden. She is close to her brother, Ser Loras Tyrell, the Knight of Flowers. She is
+        also close to her handmaidens, Sera Durwell and Mira Forrester, who followed her to King&#8217;s
+        Landing from Highgarden. She is said to be as beautiful as she is clever.</string>
+
+    <!-- Character Loras Tyrell -->
+    <string name="title_character_tyrell_loras">Loras Tyrell</string>
+    <string name="background_character_tyrell_loras">Ser Loras Tyrell is the son of Lady Alerie
+        Hightower and Lord Mace Tyrell, the Lord Paramount of the Reach and Warden of the South.
+        The Reach is one of the constituent regions of the Seven Kingdoms and House Tyrell is one
+        of the Great Houses of the realm. Loras was raised in privilege in the family seat and
+        regional capital of Highgarden. Loras is the heir to Highgarden and the Tyrell lands and
+        titles, and this status, along with his skills and good looks, makes him possibly the most
+        sought-after bachelor in all of Westeros. \n\n Loras is a skilled knight famed for his many
+        tournament victories and his good looks, which make him popular with the smallfolk and with
+        young women in particular. Loras is one of the few knights who has on rare occasion managed
+        to defeat the formidable Jaime Lannister in a joust. He is commonly known as the &#8220;Knight of
+        the Flowers&#8221;, as a rose is the sigil of House Tyrell and he thus wears armor elaborately
+        engraved with flowers. \n\n Loras is the former squire of Lord Renly Baratheon and remains
+        Renly&#8217;s close friend and lover. When the series begins Loras is in King&#8217;s Landing primarily
+        to compete in tourneys and attend court.</string>
+
+    <!-- Character Olenna Tyrell -->
+    <string name="title_character_tyrell_olenna">Olenna Tyrell</string>
+    <string name="background_character_tyrell_olenna">Olenna Tyrell is the widow of Lord Luthor
+        Tyrell and the mother of Mace Tyrell, the current Lord of Highgarden, Warden of the South,
+        Lord Paramount of the Reach, and head of House Tyrell. She is the grandmother of his
+        children Loras and Margaery. She was born into House Redwyne, one of the most prominent and
+        powerful vassals of House Tyrell. \n\n In her youth, Olenna Redwyne was engaged to a member
+        of House Targaryen, as it was &#8220;all the rage&#8221; at the time; it was her sister Viola whom
+        Luthor Tyrell was expected to marry. The night before Luthor was to propose to Viola,
+        Olenna snuck into his chamber and seduced him, leaving him &#8220;unable to walk downstairs&#8221;
+        the next day to propose to Viola. Olenna did this because the thought of marrying a
+        Targaryen and his &#8220;ludicrous silver hair&#8221; did not appeal to her. \n\n Although Olenna
+        consistently referred to Luthor as an oaf, she was genuinely fond of him, and confided
+        to Margaery that she had some difficulty accepting his death after his body was delivered
+        to her.</string>
+
+    <!-- Character Mace Tyrell -->
+    <string name="title_character_tyrell_mace">Mace Tyrell</string>
+    <string name="background_character_tyrell_mace">Mace Tyrell is the Lord of Highgarden and head
+        of House Tyrell, one of the Great Houses of Westeros. He is the Lord Paramount of the Reach
+        and Warden of the South. The Tyrells are one of the richest and most powerful families in
+        Westeros, second only to the Lannisters - for while the mountains of the Westerlands
+        possess rich gold mines, the fields of The Reach are the most fertile in Westeros, capable
+        of supporting armies almost twice the size of any other kingdom. \n\n Mace is not
+        considered a great strategist or general himself - his own mother Olenna openly describes
+        him as an oaf. On the other hand, he has shown good judgment in delegating such tasks to
+        trusted, skilled subordinates, such as the famous general Randyll Tarly, who often commands
+        Mace&#8217;s forces in battle. \n\n Mace might not be the most intelligent man, but he is an
+        amiable fellow well-liked by most of his bannermen, as well a loving husband and father.
+        Mace has one son, Loras, and a daughter, Margaery, arguably the most eligible woman in the
+        Seven Kingdoms. Mace hopes to make a good match for her to increase the already
+        considerable power and influence of his family. Mace is particularly eager for Margaery to
+        secure a royal marriage for their family because unlike some of the other Great Houses of
+        the Seven Kingdoms such as the Starks or Lannisters, the Tyrells never ruled as kings in
+        their own right, but were granted control of the Reach as a reward for submitting to Aegon
+        the Conqueror during the Targaryen Conquest three hundred years ago. Thus entering into the
+        royal bloodline would increase House Tyrell&#8217;s prestige and secure their rule over their
+        fractious vassals in the Reach. \n\n During Robert&#8217;s Rebellion, Mace and House Tyrell
+        stayed loyal to House Targaryen. The Tyrells owed their rule over Highgarden and the Reach
+        to the Targaryen kings, who after the Targaryen Conquest three centuries before had awarded
+        rule of the Reach to the Tyrells ahead of other families from the region which actually had
+        better claims (such as House Florent). The Tyrell armies were able to inflict the only
+        defeat that Robert Baratheon suffered during the entire war at the Battle of Ashford.
+        Afterwards, Mace&#8217;s massive army moved east to lay siege to the mighty castle-seat of the
+        Baratheons, Storm&#8217;s End. The Siege of Storm&#8217;s End lasted the better part of a year, while
+        Mace and his commanders feasted in sight of the starving garrison led by Robert&#8217;s younger
+        brother Stannis. Ultimately Stannis&#8217;s determined defense held, and the siege only succeeded
+        in pinning down Mace&#8217;s army and preventing it from assisting the Targaryens in the
+        climactic battles occurring further north. After the Sack of King&#8217;s Landing, Eddard Stark
+        rode south with the main rebel army to relieve the siege. With the capital city in rebel
+        hands, and both Prince Rhaegar Targaryen and his father Mad King Aerys dead, Mace saw that
+        the war was clearly lost and gave no battle to Lord Eddard. Instead he peacefully dipped
+        his banners and submitted to Robert&#8217;s rule, and in return was treated leniently, pardoned,
+        and allowed to continue ruling the Reach as his family had before the war. However, ever
+        since there was never any great love between Mace Tyrell and Stannis Baratheon.</string>
+
+    <!-- Character Roose Bolton -->
+    <string name="title_character_bolton_roose">Roose Bolton</string>
+    <string name="background_character_bolton_roose">Roose Bolton is the head of House Bolton, a
+        vassal family to House Stark of Winterfell. He is the Lord of the Dreadfort. Roose takes
+        pride in his house sigil; the flayed man. Although torture is outlawed in the North, his
+        family is famous for flaying the skin from their enemies as a means of torture and
+        execution. Roose fought for Lord Eddard Stark in the civil war against House Targaryen
+        known as Robert&#8217;s Rebellion and proved his worth as a soldier in the Battle of the Trident.
+        He advised Robert Baratheon to execute Ser Barristan Selmy, a legendary Kingsguard sworn to
+        the Targaryens, but Robert overruled Roose and pardoned Selmy. \n\n Roose Bolton had a
+        trueborn son, Domeric, who perished, forcing Roose to rely on his bastard son, Ramsay
+        Snow.</string>
+
+    <!-- Character Ramsay Bolton -->
+    <string name="title_character_bolton_ramsay">Ramsay Bolton</string>
+    <string name="background_character_bolton_ramsay">Ramsay Snow, better known as &#8220;The Bastard of
+        Bolton&#8221;, is Lord Roose Bolton&#8217;s bastard son and the product of rape: years ago Roose
+        discovered that a miller had wed without his permission. He had the miller hanged and
+        raped his wife. Ramsay was born shortly afterwards, and his mother brought him to the
+        Dreadfort, his father&#8217;s castle, for Roose to acknowledge as his son. Roose very nearly
+        killed both Ramsay and his mother, but relented upon realizing that the child was indeed
+        his. \n\n Ramsay is Roose&#8217;s only living child following the death of Domeric Bolton, as
+        well as the only possible heir to House Bolton until the birth of a child by Roose&#8217;s new
+        wife, Fat Walda Frey. He stayed behind as castellan of the Dreadfort when his father left
+        for the south to fight in the War of the Five Kings. \n\n Ramsay keeps a pack of dogs,
+        which he employs for hunting. He is also in a relationship with the kennelmaster&#8217;s
+        daughter, Myranda, whom he supposedly planned to marry before his father ultimately had
+        him legitimized.</string>
+
+    <!-- Character Theon Greyjoy -->
+    <string name="title_character_greyjoy_theon">Theon Greyjoy</string>
+    <string name="background_character_greyjoy_theon">Theon is the youngest son of Lord Balon and
+        Lady Alannys Greyjoy. Balon is the head of House Greyjoy and Lord of the Iron Islands. The
+        Iron Islands are one of the constituent regions of the Seven Kingdoms and House Greyjoy is
+        one of the Great Houses of the realm. House Greyjoy rule the region from their seat at Pyke
+        and Balon also holds the title Lord Reaper of Pyke. \n\n Theon was born at Pyke. He is
+        Balon and Alannys&#8217; fourth child after Rodrik, Maron, and Yara. Eight years before the
+        start of the series Balon rose in rebellion against the Iron Throne. The ironborn were
+        crushed in a war led by King Robert Baratheon and Lord Eddard Stark. Theon&#8217;s brothers were
+        both killed in the fighting. Balon surrendered and was allowed to remain Lord of the Iron
+        Islands on the condition that Theon remain a hostage and ward of Eddard Stark. Theon&#8217;s
+        sister Yara remained on the Iron Islands. Despite his status as a hostage at Winterfell,
+        Theon was treated well by the Starks, and he came to see Eddard as a surrogate father,
+        while becoming best friends with Robb Stark. Theon is a skilled archer. His cocky arrogance
+        and cavalier actions contrast with the staid ways of the North.</string>
+
+    <!-- Character Walda Bolton -->
+    <string name="title_character_bolton_walda">Walda Bolton</string>
+    <string name="background_character_bolton_walda">Walda is a member of House Frey and a
+        granddaughter of Lord Walder Frey.</string>
+
+    <!-- Character Walder Frey -->
+    <string name="title_character_frey_walter">Walder Frey</string>
+    <string name="background_character_frey_walter">Walder Frey is the Lord of the Crossing and the
+        head of House Frey, a vassal family of House Tully of the Riverlands. His house is noted
+        for its overwhelming fertility and he has over one hundred descendents. He rules The Twins
+        and its surrounding lands, controlling the strategically important crossing of the Green
+        Fork.  Over the years this great stone bridge and the castles that control it have made
+        House Frey a fortune in crossing fees. He has been married seven times and is almost ninety
+        years old when the series begins. \n\n He is referred to by his liege lord, Hoster Tully,
+        as the &#8220;Late Lord Frey&#8221; after delaying his arrival to assist Robert&#8217;s Rebellion until the
+        outcome had already been determined.</string>
+
+    <!-- Character Lothar Frey -->
+    <string name="title_character_frey_lothar">Lothar Frey</string>
+    <string name="background_character_frey_lothar">Lothar is a son of Walder Frey, the Lord of the
+        Crossing. He is the steward of the Twins, managing the day-to-day running of the castle.
+        He often plans and organizes the fine details to achieve his father&#8217;s goals.</string>
+
+    <!-- Character Walder Rivers -->
+    <string name="title_character_rivers_walder">Walder Rivers</string>
+    <string name="background_character_rivers_walder">Walder is known as &#8220;Black Walder&#8221; for his
+        temper and demeanor. He is a bastard son of his namesake Lord Walder Frey, Lord of the
+        Crossing and head of House Frey.</string>
+
+    <!-- Character Roslin Frey -->
+    <string name="title_character_frey_roslin">Roslin Frey</string>
+    <string name="background_character_frey_roslin">Roslin is the 19-year-old daughter of Lord
+        Walder Frey, Lord of the Crossing. Unlike the majority of Lord Walder&#8217;s brood, Roslin is
+        quite beautiful. She was intended to marry King Robb Stark as part of an alliance between
+        her father and him (Walder had given Robb a choice of any one of his many daughters or
+        granddaughters, but Roslin would have been the obvious choice), but Robb fell in love
+        with and married Talisa Maegyr instead.</string>
+
+    <!-- Character Robert Baratheon -->
+    <string name="title_character_baratheon_robert">Robert Baratheon</string>
+    <string name="background_character_baratheon_robert">Robert is the first son of Steffon
+        Baratheon and Cassana Baratheon, and has two younger brothers, Renly and Stannis. Steffon
+        was the head of House Baratheon and Lord Paramount of the Stormlands. The Stormlands are
+        one of the constituent regions of the Seven Kingdoms and House Baratheon is one of the
+        Great Houses of the realm. His parents died in his youth when their ship was caught in a
+        storm; Robert, standing on the walls of Storm&#8217;s End with Stannis, witnessed his parents
+        ship that was returning from Essos break up on the rocks. He inherited the lordship, and
+        was fostered by Jon Arryn, the head of House Arryn, another Great House. Eddard Stark, the
+        second son of House Stark, was also fostered by Jon Arryn and Robert and Eddard became as
+        close as brothers. \n\n Robert served King Aerys II Targaryen (known as the Mad King) as
+        the Lord Paramount of the Stormlands. Robert was betrothed to Lyanna Stark, Eddard&#8217;s sister.
+        Lyanna was kidnapped by Prince Rhaegar Targaryen. \n\n The mad king had Eddard&#8217;s father and
+        brother killed for protesting against the kidnapping. Their deaths sparked a massive
+        uprising against Aerys led by Robert, Eddard and Jon Arryn. Lyanna and Aerys died during
+        the civil war that followed. Robert claimed the Iron Throne because he started the war and
+        killed Prince Rhaegar personally. Robert also had the best claim to the throne as a result
+        of being related to the Targaryens through his paternal grandmother, Rhaelle Targaryen. The
+        other leaders of the rebels, Jon Arryn and Eddard Stark, believed that Robert, with his
+        claim and charismatic personality, should be king and both stood aside. \n\n Robert was
+        devastated by Lyanna&#8217;s death, but was urged by Jon Arryn to marry Cersei of House Lannister,
+        making an alliance with her father, Tywin Lannister, who had joined his cause late in the
+        conflict and delivered the capital of King&#8217;s Landing to him. He named Jon Arryn as his Hand
+        while Eddard took his father&#8217;s role as Warden of the North. \n\n Stannis fought for Robert
+        through the war though the two brothers never loved each other. Despite Stannis&#8217; service
+        during the war, Robert made Renly the Lord of Storm&#8217;s End following his victory. Renly was
+        only a child during the war, so he did not fight. Stannis was made Lord of Dragonstone and
+        served on Robert&#8217;s small council as Master of Ships. Renly later joined the small council
+        as Master of Laws. \n\n Robert has been the King of the Andals and the First Men and the
+        ruler of the Seven Kingdoms of Westeros since the end of the civil war. However, he is more
+        interested in drinking, whoring and hunting than ruling his kingdom. He revels in the glory
+        days of the rebellion. He leaves running the kingdom largely to his small council, led by
+        Jon Arryn. King Robert also loves to throw events such as tournaments at which he spares no
+        expense. Unfortunately, after seventeen years Robert&#8217;s excesses have left the realm deeply
+        in debt for a shocking six million Gold Dragons, half to House Lannister. He apparently has
+        three children with Cersei: Joffrey, Myrcella and Tommen. Unbeknownst to Robert, all three
+        were actually fathered by Cersei&#8217;s twin brother Jaime Lannister. Robert has also fathered
+        several illegitimate bastards, to whom he pays no attention. He has an unacknowledged
+        bastard son named Gendry fathered on a tavern wench. He has an unacknowledged bastard
+        daughter named Barra fathered on the prostitute Mhaegen. He has at least four other
+        unacknowledged bastards fathered with various women in the city of King&#8217;s Landing alone.
+        \n\n Jon Arryn began investigating the lineage of Cersei&#8217;s children, comparing their
+        appearance to Robert&#8217;s bastard offspring. He died under mysterious circumstances shortly
+        after beginning his investigation. Robert has decided to ride north to Eddard&#8217;s keep
+        Winterfell to name him as Jon Arryn&#8217;s replacement.</string>
+
+    <!-- Character Stannis Baratheon -->
+    <string name="title_character_baratheon_stannis">Stannis Baratheon</string>
+    <string name="background_character_baratheon_stannis">Stannis is the second born son of
+        Steffon Baratheon and Cassana Baratheon, the younger brother of the late King Robert
+        Baratheon and older brother of Renly Baratheon. Steffon was the head of House Baratheon
+        and Lord Paramount of the Stormlands. The Stormlands are one of the constituent regions
+        of the Seven Kingdoms and House Baratheon is one of the Great Houses of the realm. Steffon
+        died when the boys were young and Robert inherited his titles. Stannis is a serious and
+        severe man. \n\n Robert led a rebellion against King Aerys II Targaryen, deposing and
+        replacing him as the ruler of the Seven Kingdoms. Stannis fought for Robert during the war.
+        He was besieged at Storm&#8217;s End for much of the conflict. He was rescued from starvation by
+        the smuggler Davos, who brought a ship full of onions into the castle. Stannis knighted
+        Davos as a reward but also punished him for his smuggling by cutting four finger tips from
+        his right hand. Davos is fiercely loyal to Stannis and saw his punishment as just. Davos&#8217;s
+        son Matthos served Stannis as a scribe. Stannis went on to conquer Dragonstone, the seat
+        of House Targaryen. During the Greyjoy Rebellion, Stannis destroyed the Greyjoy fleet. \n\n
+        Stannis and Robert never loved one another. Despite Stannis&#8217; service during the war, Robert
+        made Renly the Lord of Storm&#8217;s End following his victory. Renly was only a child during the
+        civil war, so he did not fight. Stannis was made Prince of Dragonstone and served on his
+        brother&#8217;s small council as Master of Ships. Though not outright cruel or malicious, he is a
+        stern and humorless man, making him the least popular of the Baratheon brothers. \n\n He
+        married Selyse Florent. They have a loveless marriage; Stannis regards her as sickly and
+        resents her failure to bear him a son. During the first season Stannis is on Dragonstone
+        for an extended stay, preferring the solitude of the island. \n\n He has converted to the
+        Lord of Light under the influence of the priestess Melisandre. His household have largely
+        followed his conversion. He has adopted the flaming red heart of the Lord of Light with
+        the stag of Baratheon in the middle as his sigil.</string>
+
+    <!-- Character Renly Baratheon -->
+    <string name="title_character_baratheon_renly">Renly Baratheon</string>
+    <string name="background_character_baratheon_renly">Renly is the third and youngest son of
+        Steffon and Cassana Baratheon. Steffon was the head of House Baratheon and Lord Paramount
+        of the Stormlands. The Stormlands are one of the constituent regions of the Seven Kingdoms
+        and House Baratheon is one of the Great Houses of the realm. Renly has two older brothers
+        Robert and Stannis. Their parents died when the boys were young and Robert inherited his
+        father&#8217;s titles. Robert led a rebellion against King Aerys II Targaryen, deposing and
+        replacing him as the King on the Iron Throne. He made Renly the Lord of Storm&#8217;s End
+        following his victory. Renly was only a child during the civil war, so he did not fight.
+        \n\n Renly serves Robert as Master of Laws on the King&#8217;s small council in King&#8217;s Landing.
+        He is fourth in line to the throne, behind his nephews Joffrey and Tommen and his older
+        brother Stannis. Renly is popular at court because of his friendly manner and keen fashion
+        sense. \n\n Renly has been involved in a homosexual romance with Ser Loras Tyrell for many
+        years. They must keep their love a secret because the dominant religion of the realm, the
+        Faith of the Seven, considers homosexuality to be a sin, although many people are
+        nonetheless aware of their relationship as something of an open secret.</string>
+
+    <!-- Character Selyse Baratheon -->
+    <string name="title_character_baratheon_selyse">Selyse Baratheon</string>
+    <string name="background_character_baratheon_selyse">Selyse is the wife of Stannis Baratheon,
+        the Lord of Dragonstone and claimant to the Iron Throne. She was born into House Florent
+        of Brightwater Keep, a noble house of the Reach and bannermen of House Tyrell. \n\n Selyse
+        and Stannis have a single daughter, Princess Shireen Baratheon. The rest of Selyse and
+        Stannis&#8217; offspring, Petyr, Tommard, and Edric, were all stillborn. She keeps their bodies
+        in crystal containers filled with chemicals in her chambers.</string>
+
+    <!-- Character Shireen Baratheon -->
+    <string name="title_character_baratheon_shireen">Shireen Baratheon</string>
+    <string name="background_character_baratheon_shireen">Shireen is the daughter of Stannis and
+        Selyse Baratheon. Her father is the head of House Baratheon of Dragonstone and has declared
+        himself King on the Iron Throne. Shireen is Stannis&#8217;s only living child and therefore his
+        heir presumptive. She is the same age as Arya Stark. She had three older brothers, who were
+        stillborn. \n\n The left side of her face is scarred by Greyscale, which she caught as an
+        infant. Normally considered a death sentence, Stannis refused to give up on her and called
+        in every healer he could find from both sides of the Narrow Sea to try to cure her, and
+        through the combination of their efforts they managed to succeed, though the left side of
+        her face was left permanently scarred. \n\n Selyse resents Shireen because she could not
+        give Stannis a healthy son, only a sickly daughter, and dismisses her as stubborn and
+        sinful. Shireen in turn tries to avoid her mother, because she is frightened by Selyse&#8217;s
+        fanatical devotion to Melisandre and the Lord of Light. However, Shireen adores her father
+        and he loves her deeply as well, though he is a dour man who doesn&#8217;t often let it show
+        through his stern exterior. She is also close friends with Stannis&#8217;s most trusted advisor,
+        Ser Davos Seaworth.</string>
+
+    <!-- Character Brienne of Tarth -->
+    <string name="title_character_tarth_brienne">Brienne of Tarth</string>
+    <string name="background_character_tarth_brienne">Brienne is the sole surviving child and heir
+        of Lord Selwyn Tarth of Evenfall Hall, on the island of Tarth, located in the Narrow Sea
+        off the coast of the Stormlands. She is unusually tall and muscular for a woman by
+        Westerosi standards and developed a taste for martial activity as a child. Brienne has
+        grown up to become skilled at arms and dreams of becoming a knight. \n\n Brienne&#8217;s mother
+        died when she was so young that she doesn&#8217;t remember her. She had some siblings but they all
+        died in childhood. As the sole heir of House Tarth, she posed a fairly promising marriage
+        prospect for men from other noble Houses, but due to her physicality and personality has
+        never seriously pursued a marriage alliance with another House. \n\n She is also called The
+        Maid of Tarth, or, disparagingly, Brienne the Beauty, due to her appearance.</string>
+
+    <!-- Character Gendry -->
+    <string name="title_character_gendry">Gendry</string>
+    <string name="background_character_gendry">Gendry is a bastard son of King Robert Baratheon,
+        but is unacknowledged and unaware of his lineage. Gendry did not receive the bastard
+        surname used in the Crownlands (Waters) because he was not openly acknowledged by Robert.
+        \n\n His mother worked in a tavern and died when he was very young. When he was old enough,
+        an unknown lord paid his apprentice fee so he could learn to be a blacksmith. He spent his
+        whole life in the capital city of King&#8217;s Landing working as an apprentice blacksmith under
+        his master, Tobho Mott, to forge armor and weapons for the nobility.</string>
+
+
+    <!-- Character Davos Seaworth -->
+    <string name="title_character_seaworth_davos">Davos Seaworth</string>
+    <string name="background_character_seaworth_davos">Ser Davos Seaworth is a landed knight and a
+        reformed smuggler. His ship used to ply the Narrow Sea, smuggling goods from the Free
+        Cities into the Seven Kingdoms and back again. \n\n Davos was born in Flea Bottom, the
+        poorest slum in King&#8217;s Landing. His father was a poor crabber. He became a sailor while
+        very young to escape the slums and has spent most of his life sailing the Narrow Sea. His
+        black-sailed ship became infamous for sneaking into harbors in the dead of night while
+        avoiding detection. \n\n During Robert&#8217;s Rebellion, Davos aided Stannis Baratheon while he
+        was besieged in Storm&#8217;s End, by delivering smuggled onions and other foodstuffs into the
+        castle. The supplies helped Stannis&#8217; forces survive until the end of the war. For this
+        service, Stannis rewarded Davos by bestowing him with knighthood and lands. He chose the
+        name &#8220;Seaworth&#8221; for his family&#8217;s new noble House, as a reference to his smuggling past.
+        Highborn members of older noble Houses disparagingly called Davos &#8220;the Onion Knight&#8221; for
+        his actions, but he has embraced this title and proudly took an onion for a sigil and sewed
+        it onto his ship&#8217;s sails. \n\n Stannis also cut off four finger tips from Davos&#8217; right hand
+        as punishment for his smuggling crimes. Thieves in Westeros are often sentenced to having
+        fingers or the whole hand removed, but Stannis only took the fingertips of his less used
+        hand (his right, as Davos is left-handed). Davos submitted to this punishment willingly,
+        judging it a fair exchange in return for improving his family&#8217;s future prospects. He also
+        mentions in a featurette that he submitted to the punishment for the sake of sheer justice,
+        saying he &#8220;avoided punishment for too long&#8221;. He wears his severed finger bones in a pouch
+        about his neck and believes they bring him good luck. \n\n Davos is one of Stannis&#8217; most
+        loyal and reliable vassals and arguably his best friend, but is treated with disdain by
+        some of the other lords of Westeros for his low birth. Stannis himself points out that it
+        was the low-born Davos, and not the high-born lords, who saved the lives of Stannis and his
+        castle garrison. Davos is one of the only men who can (even grudgingly) influence Stannis&#8217;
+        decisions, because he values Davos&#8217; honest advice above that of noble-born flatterers. \n\n
+        Davos has several sons, including Matthos, who serves with him on his ship and is a scribe
+        for Stannis. He is proud of his son&#8217;s education but remains illiterate. \n\n Even though
+        Stannis&#8217; wife Selyse despises Ser Davos, their daughter Shireen is fond of him and
+        considers him a friend.</string>
+
+    <!-- Character Salladhor Saan -->
+    <string name="title_character_saan_salladhor">Salladhor Saan</string>
+    <string name="background_character_saan_salladhor">Salladhor Saan is a pirate-lord from Lys,
+        though a native of the Summer Isles. He commands a fleet of thirty ships that frequently
+        prey on merchant ships traveling between Westeros and the Free Cities to the east.
+        Sometimes in pursuit of extra wealth, he shifts from pure piracy to being a sellsail:
+        hiring out the services of his ships and crews to the highest bidder, to act as mercenaries
+        in various conflicts.</string>
+
+    <!-- Character Melisandre -->
+    <string name="title_character_melisandre">Melisandre</string>
+    <string name="background_character_melisandre">Originally born a slave in Essos, Melisandre is
+        a Red Priestess of the Lord of Light, a deity that is not widely worshiped in Westeros.
+        Hailing from Asshai, a country located in the far east of the continent of Essos, she
+        claims to wield powerful magical abilities, particularly the power of prophecy. Melisandre
+        wears a large ruby necklace that seems to glow whenever she performs her magic. Some years
+        ago she crossed the Narrow Sea and came to the court of Lord Stannis Baratheon on the
+        island stronghold of Dragonstone, to preach her faith. Stannis and the majority of his
+        household have now converted to her religion, and she has become a close adviser to Stannis
+        himself.</string>
+
+    <!-- Character Daenerys Targaryen -->
+    <string name="title_character_targaryen_daenerys">Daenerys Targaryen</string>
+    <string name="background_character_targaryen_daenerys">Daenerys is the only daughter and
+        youngest child of King Aerys II Targaryen, the &#8220;Mad King&#8221;, and his sister-wife Rhaella.
+        Her father died during the Sack of King&#8217;s Landing, before she was even born. The usurper
+        Robert Baratheon installed himself as king, having defeated Aerys in the conquest known as
+        Robert&#8217;s Rebellion. Her pregnant mother and young brother Viserys, fled to the island of
+        Dragonstone, the ancestral home of House Targaryen, to escape Robert. Daenerys&#8217;s brother
+        Rhaegar Targaryen was also killed in the war and Robert&#8217;s forces murdered his wife and
+        children, Daenerys&#8217;s sister-in-law, niece, and nephew, during the Sack of King&#8217;s Landing. \n\n
+        On the night Daenerys was born on Dragonstone, a vast storm raged. For this reason, she is
+        sometimes called &#8220;Daenerys Stormborn&#8221;. Her mother died soon after she was born, leaving her
+        an orphan. As a baby, she was taken into exile in the Free Cities with her brother,
+        Viserys, by loyal retainers, among them Ser Willem Darry.\n\n After years spent fruitlessly
+        trying to raise support to retake the Iron Throne, Viserys and Daenerys were given
+        sanctuary by Magister Illyrio Mopatis in the Free City of Pentos. She dreams of finding a
+        peaceful home and a place to belong. She lives in constant fear of Viserys, who hits her
+        when his temper is risen (in his words, whenever she &#8220;wakes the dragon&#8221;). Living under
+        Viserys&#8217; domination has left her meek and malleable.</string>
+
+    <!-- Character Viserys Targaryen -->
+    <string name="title_character_targaryen_viserys">Viserys Targaryen</string>
+    <string name="background_character_targaryen_viserys">Viserys is the second son and heir of
+        King Aerys II Targaryen, the former ruler of the Seven Kingdoms. During Robert&#8217;s Rebellion,
+        after Viserys&#8217;s older brother Rhaegar was killed at the Battle of the Trident, his father
+        sent Viserys and his pregnant mother Queen Rhaella to safety on Dragonstone island. King
+        Aerys was soon afterwards killed during the Sack of King&#8217;s Landing along with Rhaegar&#8217;s
+        widow and children, and thus at the age of only five Viserys became the titular head of
+        House Targaryen, though by this point the war was officially lost. Not long afterwards,
+        his mother died in childbirth, while the forces of Robert Baratheon closed in on the
+        island. Before they could arrive, Viserys and his baby sister Daenerys were smuggled to
+        safety in the Free Cities, across the Narrow Sea on the continent of Essos. Bereft of
+        followers, Viserys spent the next 17 years travelling between the Free Cities trying to
+        find new supporters for an attempt to retake the Iron Throne. At times, however, he was
+        left literally begging for food and shelter, much less an army. \n\n Viserys claims the
+        title of Lord of the Seven Kingdoms and refers to Robert Baratheon only as &#8220;the Usurper&#8221;.
+        After years spent fruitlessly wandering the Free Cities seeking military support to retake
+        his throne, Viserys and Daenerys became guests of the powerful Magister Illyrio Mopatis of
+        Pentos.</string>
+
+    <!-- Character Aerys II Targaryen -->
+    <string name="title_character_targaryen_aerys">Aerys II Targaryen</string>
+    <string name="background_character_targaryen_aerys">Aerys Targaryen, the Second of His Name,
+        was King of the Seven Kingdoms and the last member of House Targaryen to sit on the Iron
+        Throne. Popularly remembered as &#8220;the Mad King&#8221;, his reign became increasingly erratic and
+        murderous. A final round of blood-letting, unleashed when his son, Prince Rhaegar,
+        kidnapped Lyanna Stark of Winterfell, saw many houses in the realm rebel against his rule.
+        Brandon Stark protested the abduction of his sister and demanded justice. Aerys had him
+        arrested for treason and then offered to ransom him to his father. When Rickard Stark rode
+        to King&#8217;s Landing to ransom Brandon, Aerys had him arrested too, and then brutally executed
+        both father and son. \n\n The noble houses of Stark, Tully, Arryn, and Baratheon raised the
+        flags of rebellion and destroyed the royalist armies in several major engagements,
+        culminating in the Battle of the Trident where Prince Rhaegar fell. King Aerys was betrayed
+        by his former friend and King&#8217;s Hand, Lord Tywin Lannister, who led an army to apparently
+        defend the capital at King&#8217;s Landing but instead brutally sacked the city. \n\n Aerys had
+        already instructed Wisdom Rossart, his new Hand of the King, to hide caches of wildfire all
+        over King&#8217;s Landing. He then decreed that the capital be set ablaze. Aerys seemingly
+        believed the massive inferno would transmute him into a dragon and he would emerge to
+        obliterate his enemies. To prevent the King incinerating the city and its half a million
+        inhabitants, Ser Jaime Lannister, a member of the Kingsguard, stabbed Aerys in the back and
+        then cut his throat. \n\n Aerys&#8217; death brought to an end the Targaryen dynasty, which had
+        ruled the Seven Kingdoms for three centuries. He was replaced on the Iron Throne by the
+        leader of the rebels, Robert Baratheon. However, the Targaryen bloodline survived through
+        his two youngest children, Viserys and Daenerys, who were spirited away to the Free
+        Cities.</string>
+
+    <!-- Character Rhaegar Targaryen -->
+    <string name="title_character_targaryen_rhaegar">Rhaegar Targaryen</string>
+    <string name="background_character_targaryen_rhaegar">Prince Rhaegar Targaryen was the eldest
+        son and heir to the Mad King, Aerys II Targaryen, by his wife and sister Queen Rhaella
+        Targaryen. Tywin Lannister desired for his daughter Cersei to marry Rhaegar, but King
+        Aerys II insulted Tywin by indicating that such a match would be beneath Rhaegar. Instead,
+        Rhaegar was married to Princess Elia Martell of Dorne, with whom he had a daughter named
+        Rhaenys and then a son named Aegon. In spite of Elia&#8217;s love and loyalty to him, Rhaegar
+        abducted Lyanna Stark of Winterfell for unknown reasons. \n\n After the Mad King had Lyanna
+        Stark&#8217;s father Rickard Stark and oldest brother Brandon Stark executed after the latter
+        brazenly rode to the capital, demanding Rhaegar release Lyanna, her other brother, Eddard
+        Stark, and her betrothed, Robert Baratheon, joined forces with several other houses to
+        overthrow the Targaryen dynasty. This war became known as the War of the Usurper or
+        Robert&#8217;s Rebellion. After initially remaining away from the fighting in Dorne, Rhaegar was
+        summoned to lead the Royalist forces in what would be the Battle of the Trident. During the
+        Battle, Rhaegar was killed in single combat with Lyanna&#8217;s betrothed Robert Baratheon.
+        Rhaegar was struck down with a massive blow from Robert&#8217;s warhammer, which scattered the
+        rubies encrusted in Rhaegar&#8217;s armor under the water. That location was named the &#8220;Ruby
+        Ford&#8221; thereafter. \n\n His father was killed shortly afterwards by Ser Jaime Lannister
+        during the Sack of King&#8217;s Landing and his mother died in childbirth at Dragonstone. His
+        younger brother Viserys and sister Daenerys (who was born after Rhaegar&#8217;s death) survived
+        in exile in the Free Cities across the sea. Lyanna also died during the war. Rhaenys and
+        Aegon were killed in front of Elia by Ser Gregor Clegane better known as &#8217;The Mountain&#8217;
+        and afterwards raped Elia and fatally stabbed her with his sword.</string>
+
+    <!-- Character Aemon Targaryen -->
+    <string name="title_character_targaryen_aemon">Aemon Targaryen</string>
+    <string name="background_character_targaryen_aemon">Aemon was born into the royal House
+        Targaryen, the son of King Maekar I. Unlike the majority of his forbears, Aemon and his
+        brothers were not born out of marriage between brother and sister. Their father and
+        grandfather respectively married Dyanna of House Dayne and Myriah of House Martell.
+        Originally known as Prince Aemon Targaryen, he was not his father&#8217;s eldest son, so he
+        eventually joined the order of Maesters. Aemon gave up all rights to inheritance when he
+        took his vows, which also included dropping his surname &#8220;Targaryen&#8221;. \n\n Aemon&#8217;s older
+        brother, Aerion, later died, however, and despite being a sworn maester there were those
+        who felt that the crown should pass to him. Aemon refused the throne, however, and it
+        passed to his younger brother, who became King Aegon V. Aemon then joined the Night&#8217;s Watch
+        to remove himself from the political intrigues of the royal court, and those who wished to
+        set him up as a rival against his brother. \n\n Many years later the crown passed to Aegon
+        V&#8217;s son, Aemon&#8217;s nephew Aerys II, called &#8220;The Mad King&#8221;. Aerys&#8217;s growing insanity
+        ultimately led to the outbreak of Robert&#8217;s Rebellion, which saw House Targaryen deposed
+        and practically exterminated. Upon hearing about the brutal death of his family in King&#8217;s
+        Landing during the rebellion, Aemon bore great sadness which has never left him. \n\n
+        Around one hundred years old, Aemon is thought to be one of the oldest living men in
+        Westeros, though he has retained all of his wits and his mind is still very sharp. He has
+        served as the maester at Castle Black for many decades. \n\n Aemon has long since gone
+        blind due to old age. It is not clear when he went blind (he was not born blind), though
+        he has stated that he was already old and blind during Robert&#8217;s Rebellion. As a man of
+        learning, he laments not being able to read anymore, even though Castle Black ironically
+        has an ancient and well-stocked library consisting of thousands of books. Because one of a
+        maester&#8217;s basic duties is to handle messages sent to and from a castle by messenger-ravens,
+        Aemon has to rely on the assistance of others to physically read the letters for
+        him.</string>
+
+    <!-- Character Drogo -->
+    <string name="title_character_drogo">Drogo</string>
+    <string name="background_character_drogo">Drogo is a khal or warlord of the Dothraki, the
+        famed nomadic horse-lords of the eastern continent beyond the Narrow Sea. The Dothraki are
+        fierce warriors, skilled in battle, unrelenting in combat and known for savagery towards
+        non-Dothraki. Amongst their own people they have a code of honor, albeit still a harsh and
+        unforgiving one. Drogo was very young to have his own khalasar, particularly such a large
+        one. He is a legendary warrior and has never been defeated in battle. Drogo desired the
+        most beautiful and exotic woman in the world as his khaleesi or wife, and enlisted Magister
+        Illyrio Mopatis of Pentos to help him find such a woman. \n\n He is guarded by bloodriders
+        including Qotho. Generals or ko in his khalasar include Pono and Jhaqo, men who guard him,
+        follow him in battle and, when Drogo dies, it is their duty and honor to follow him even
+        then to continue serving him.</string>
+
+    <!-- Character Missandei -->
+    <string name="title_character_missandei">Missandei</string>
+    <string name="background_character_missandei">Missandei was born on the island of Naath in the
+        Summer Sea, off the coast of the continent of Sothoryos. She was enslaved at a young age
+        and taken to Slaver&#8217;s Bay in Essos, where she was eventually put to work as an interpreter
+        for the slaver-master Kraznys mo Nakloz, one of the Good Masters of Astapor. \n\n Missandei
+        speaks nineteen languages including High Valyrian (her favorite), the Low Valyrian dialect
+        of Slaver&#8217;s Bay, Dothraki, the Common Tongue of Westeros, and has some knowledge of the
+        functionally dead language of the Ghiscari Empire.</string>
+
+    <!-- Character Grey Worm -->
+    <string name="title_character_worm_grey">Grey Worm</string>
+    <string name="background_character_worm_grey">Grey Worm was originally a boy taken into slavery
+        by the Good Masters of Astapor, an oligarchy of slave-traders dedicated to the training and
+        commerce of Unsullied, warrior-eunuch slaves trained into absolute obedience since early
+        childhood. It later is revealed that he is originally from the Summer Islands and was taken
+        by the slavers in a raid as a baby. He has no memory of his life before being an Unsullied.
+        \n\n He is released from slavery after Daenerys Targaryen buys all the Unsullied in the
+        city and has them put all slave owners in Astapor to the sword and release all slaves.
+        Once released, Grey Worm, like all his brethren, chooses to fight for Daenerys as a free
+        man.</string>
+
+    <!-- Character Daario Naharis -->
+    <string name="title_character_naharis_daario">Daario Naharis</string>
+    <string name="background_character_naharis_daario">Daario is a Tyroshi sellsword, employed as a
+        lieutenant in the Second Sons. He is apparently held in high enough regard by the company&#8217;s
+        co-captains, Mero and Prendahl na Ghezn, that they allow him to join them in contract
+        negotiations and discussions of the company&#8217;s future. \n\n According to Daario, his mother
+        was a prostitute, and he comes from low beginnings. At the age of 12, Daario was sold by
+        his mother to a slave master from Tolos due to her declining income, alcoholism and his
+        aggressive, unruly behavior and tendency to get into fights with other boys. He was trained
+        as a pit fighter and had his first match in the pits when he was 16. Daario rose to fame
+        within the fighting pits earning his master so much money that at the time of his master&#8217;s
+        death Daario was rewarded with freedom. Daario chose to fight as a sellsword for the Second
+        Sons sometime after that. \n\n Besides being fluent in the Common Tongue, Daario is also
+        fluent in High Valyrian considering he is of Tyroshi origin. \n\n Daario has an unusual
+        code for a sellsword; he won&#8217;t sleep with prostitutes and only kills soldiers who are
+        trying to kill him, not bystanders. He does this because he feels that otherwise there is
+        no sport and it is not exciting. Daario has said that the gods gave men two things to
+        entertain themselves with before they die: the thrill of having sex with a woman who
+        earnestly wants it, and the thrill of killing a man who is trying to kill you first. \n\n
+        Daario is a highly skilled and extremely capable warrior. Being trained a pit fighter since
+        the age of 12 and then fighting as a sellsword after that, mostly all of Daario&#8217;s life has
+        revolved around fighting. During his years as a pit fighter he learned to fight with
+        several different fighting styles; like a Dothraki screamer, a Norvoshi priest and a
+        Westerosi knight. Daario has over several different occasions proven his skills in combat:
+        when he reveals to Daenerys that he single-handedly managed to kill both of the commanding
+        officers of the Second Sons, when he along Ser Jorah and Grey Worm fight severely
+        outnumbered against several guards in the streets of Yunkai, when he kills the Champion of
+        Meereen in single combat with ease or when protecting Daenerys, Tyrion, and Missandei from
+        hundreds of Sons of the Harpy along with Ser Jorah, coming out on top, unharmed, despite
+        being outnumbered severely. \n\n Daario&#8217;s weapons-of-choice are a Dothraki arakh and a
+        Myrish stiletto, both which have gold-plated custom-made hilts in the shape of beautiful,
+        naked women. His fighting style is based on speed and quick, accurate strikes with few,
+        mostly finishing, blows based on pure strength due to his relatively small size and lean
+        build compared to the larger, stronger opponents he frequently faced in the fighting
+        pits.</string>
+
+    <!-- Character Doran Martell -->
+    <string name="title_character_martell_doran">Doran Martell</string>
+    <string name="background_character_martell_doran">Doran Martell is the Prince of Dorne and the
+        Lord of Sunspear. He is the head of House Martell, the ruling house of Dorne, and the older
+        brother of the late Princess Elia, who was murdered by Ser Gregor Clegane in the Sack of
+        King&#8217;s Landing, and Prince Oberyn, known as The Red Viper, also killed by Clegane. \n\n He
+        suffers from a severe case of gout, which mostly prevents him from walking and restricts
+        him to a wheelchair. \n\n Unlike his more hotheaded and aggressive brother, Oberyn, Doran
+        is a pensive, calculating, and patient man who always waits and observes before making his
+        next move. Despite their different personalities, the two brothers were very close. While
+        Oberyn could indulge in the wayward Dornish ways, challenging whomever he liked regardless
+        of the consequences, Doran was raised to be more responsible as the heir to the Dornish
+        throne. He truly cares for both his people and his family, and would never make a decision
+        that would go against their interests. However, this is often against their wishes. \n\n
+        Doran has also been a witness to war and was deeply marked by its consequences. As such,
+        he often tries to find a solution that avoids waging war, even if the honor of House
+        Martell has been offended. This, along with his physical weakness, gives some people the
+        impression that he is weak-willed and can be easily dominated, but this is misleading;
+        Doran is just as ruthless and decisive as any other member of House Martell. He&#8217;s simply
+        better at hiding it - until the moment that he strikes.</string>
+
+    <!-- Character Trystane Martell -->
+    <string name="title_character_martell_trystane">Trystane Martell</string>
+    <string name="background_character_martell_trystane">Prince Trystane is a member of House
+        Martell, the ruling house of Dorne. He is the youngest son of Prince Doran Martell, Lord
+        of Sunspear and Prince of Dorne. Like his father Doran, Trystane lacks (for the most part)
+        the hotheadedness typical of Dornishmen, as evidenced by his showing mercy to Bronn for
+        attacking him.</string>
+
+    <!-- Character Elia Martell -->
+    <string name="title_character_martell_elia">Elia Martell</string>
+    <string name="background_character_martell_elia">Princess Elia was the wife of Prince Rhaegar
+        Targaryen. They had two children; a daughter Rhaenys, and a son, Aegon. She was born into
+        House Martell in Dorne. She was the younger sister of Prince Doran Martell, the current
+        ruler of Dorne, and an older sister of Prince Oberyn. Her marriage to Prince Rhaegar
+        was arranged by King Aerys II Targaryen and considered an insult by Tywin Lannister,
+        Aerys&#8217;s Hand of the King, who had proposed his daughter Cersei as a bride for the Prince
+        but was rejected. The marriage was one of the reasons Lord Tywin resigned his post as
+        Hand. Like her younger brother, Elia was very popular among the Dornish people. \n\n As a
+        teenager, Elia accompanied her brother Oberyn on a visit to Casterly Rock. While there,
+        Elia and Oberyn were eager to see the monster that had just been born. Cersei finally
+        showed them the baby, but the Martell siblings were somewhat disappointed to see that
+        Tyrion was just a baby, and somewhat disturbed by Cersei&#8217;s already strong hatred of him.
+        \n\n Elia loved her husband Prince Rhaegar dearly. She bore him two children, Rhaenys and
+        Aegon, to whom she was equally devoted; according to Oberyn, Elia took care of them from
+        birth, rather than delegating the task to a wet nurse. Both pregnancies were very
+        difficult, and each nearly killed Elia. \n\n When Robert&#8217;s Rebellion erupted, Elia was
+        kept in King&#8217;s Landing by King Aerys to ensure the loyalty of House Martell during the
+        conflict- a measure the Martells considered unnecessary, as they would always fight for
+        whichever side Elia was on and had no intention of breaking their oaths of loyalty to the
+        Targaryens. Ultimately Rhaegar was killed in personal combat with Robert Baratheon at the
+        Battle of the Trident, leaving Elia widowed. A few weeks later during the Sack of King&#8217;s
+        Landing, Tywin Lannister&#8217;s army betrayed the Targaryens and overran the city. Ser Gregor
+        Clegane - known as &#8220;The Mountain That Rides&#8221; burst into the royal chambers and before
+        Elia&#8217;s eyes, killed her daughter Rhaenys, then bashed her infant son&#8217;s head in against a
+        wall. Covered in the blood and gore of her children, Gregor proceeded to brutally rape
+        Elia, and finally he killed her. It is rumored that he cut her in half with his
+        greatsword, though Gregor himself later confesses to &#8220;smashing her head in&#8221;. \n\n Elia&#8217;s
+        death deeply alienated her family from the crown after Robert ascended the throne, and
+        their hatred of the Lannisters now knew no bounds. Subsequently they were never seen and
+        rarely if ever mentioned at the royal court in King&#8217;s Landing.</string>
+
+    <!-- Character Oberyn Martell -->
+    <string name="title_character_martell_oberyn">Oberyn Martell</string>
+    <string name="background_character_martell_oberyn">Prince Oberyn is the younger brother of
+        Prince Doran Martell and Princess Elia Martell; like most members of House Martell, he is
+        styled &#8220;Prince&#8221; instead of &#8220;Lord&#8221;. He is nicknamed &#8220;the Red Viper&#8221; for his knowledge of
+        poisons and for his unusual, deadly style of combat. Oberyn is known for being an
+        accomplished warrior, but he is just as infamous for his sexual appetite, which extends to
+        both men and women; Tyrion Lannister tells Bronn that Oberyn is &#8220;famous for fucking half of
+        Westeros&#8221;. Oberyn&#8217;s paramour is Ellaria Sand; she is his wife in all but name, and Doran
+        once noted that Ellaria made Oberyn very happy. She is also the mother of five of Oberyn&#8217;s
+        infamous eight bastard daughters, all of whom he has acknowledged and given his love and
+        care. He named the fifth one, Elia Sand, after his late sister. \n\n When he was a teenager,
+        Oberyn was accompianed by his big sister Elia on a visit to Casterly Rock. While there,
+        Oberyn and Elia were eager to see the &#8220;monster&#8221; that had just been born. Cersei finally
+        showed them Tyrion, but the Martell siblings were somewhat disappointed to see that he was
+        just a baby, and somewhat disturbed by Cersei&#8217;s already strong hatred of him. \n\n Prince
+        Oberyn trained at the Citadel in his youth, in order to become a maester. Although he
+        ultimately grew bored and abandoned his studies, he managed to forge several links in a
+        maester&#8217;s chain, and became well versed in the use of poisons in the process. When he was
+        sixteen, an older nobleman caught Oberyn in bed with his mistress and challenged Oberyn to
+        a duel to first blood; Oberyn won the duel, and several days later the man died from
+        festering wounds, likely because Oberyn had poisoned his blade. Oberyn also travelled to
+        Essos in his youth; for a time, he served in the mercenary company known as the Second Sons.
+        He once went to the city of Astapor there and saw the Unsullied, whom he jokingly remarked
+        were impressive on the battlefield, but less so in the bedroom. He lived in Essos for a
+        total of five years. It is implied that Oberyn fought duels in the infamous fighting pits
+        of Meereen, as he mentions to Tyrion that he learned some of his combat techniques
+        &#8220;during his years in the fighting pits&#8221;. \n\n Despite his wayward ways and liberal attitude
+        towards sexuality, Oberyn is very devoted to his family, telling his lover Ellaria that any
+        other person would always have to wait behind her for his affection. He was very close with
+        his sister, Elia, and took her death very hard. As a result, he had a strong and fierce
+        hatred for House Lannister, especially towards Tywin Lannister, whom he believed ordered
+        his sister&#8217;s murder. He was also close to his older brother, Doran, despite their very
+        different personalities.</string>
+
+    <!-- Character Ellaria Sand -->
+    <string name="title_character_sand_ellaria">Ellaria Sand</string>
+    <string name="background_character_sand_ellaria">Ellaria is the mother of four of Prince
+        Oberyn Martell&#8217;s eight bastard daughters. Her eldest daughter is Tyene. Like Oberyn,
+        Ellaria is attracted to both men and women.</string>
+
+    <!-- Character Obara Sand -->
+    <string name="title_character_sand_obara">Obara Sand</string>
+    <string name="background_character_sand_obara">Obara Sand is the eldest of the &#8220;Sand Snakes&#8221;,
+        the eight bastard daughters of Prince Oberyn Martell, and was named in honor of her father.
+        Her mother was a peasant. \n\n Even more than her sisters, Obara inherited her father&#8217;s
+        martial prowess, particularly his skill with a spear. She is a very tough warrior and the
+        most overtly martial of the Sand Snakes. The other Sand Snakes will change out of their
+        light leather armor when traveling in the hot deserts of Dorne, but Obara always wears her
+        leather armor. She also tends to dress in a more masculine style than her sisters, even
+        when not in combat. When she sees an obstacle, she does not attempt to undermine it with
+        deception or intrigue, but will attack it head-on, relying on her skill and the strength of
+        her weapons. This is in contrast with her sister Nymeria, who prefers to hold off and
+        analyze her foes to calculate a more efficient means of defeating them. \n\n Obara is the
+        Sand Snake most like their father. He taught her the ways of war himself, training her in
+        the use of a traditional Dornish spear like he used. Unlike most Dornishmen, who are
+        overtly passionate, Obara is staunchly disciplined to not overtly display her emotions.
+        This is largely due to her origins: unlike her sisters Nymeria and Tyene, Obara&#8217;s mother
+        was not a noblewoman, so when Oberyn came to take her to court, she had to choose between
+        staying or going, the latter meaning she would never see her mother again. As a result, she
+        has a cold and hardened demeanor, though she deeply loves her family. This is not to say
+        that Obara is the most rational of the sisters (Nymeria is the most rational and
+        calculating one). She is actually quite irrational and ruled by her emotions, she just
+        doesn&#8217;t outwardly show them that much. The difference is that in a situation where Tyene
+        would aggressively shout insults at an enemy and attack them, Obara would just silently
+        walk straight up to them and stab them without saying a word. Nymeria, in contrast, would
+        hold back and attempt to assess if there would be a more opportune moment to strike at a
+        later time. \n\n Obara is loosely the lead Sand Snake, because she is eldest and probably
+        the best fighter. Her sister Nymeria does nothing without her approval. Her father Oberyn
+        and Nymeria were the only two people that Obara ever fully trusted. As her close confident,
+        Nymeria is also the only person who can say &#8220;no&#8221; to Obara: while they may seem to argue at
+        times, conversely this is because Nymeria is the only person that Obara will at least pay
+        heed to - for anyone else, arguing with Obara is useless once she has her mind set on
+        something. Nymeria is the only person Obara will ever take advice from (after their
+        father&#8217;s death).</string>
+
+    <!-- Character Nymeria Sand -->
+    <string name="title_character_sand_nymeria">Nymeria Sand</string>
+    <string name="background_character_sand_nymeria">Nymeria Sand is the second of the eight
+        bastard daughters of Prince Oberyn Martell, known as the &#8220;Sand Snakes&#8221;. Nymeria&#8217;s mother
+        was an Eastern noblewoman, who taught her how to use a whip in combat, but who later died
+        in battle. Nymeria became very skilled with using her 8 foot long bullwhip in combat. \n\n
+        Nymeria inherited her father&#8217;s cunning, and is the most observant and calculating of the
+        Sand Snakes. Instead of charging head-on into a situation relying on brute strength (like
+        her older sister Obara), she will stand back and observe her enemy&#8217;s weak points, then move
+        in precisely for an accurate strike. In this, she is actually more like her uncle, Doran
+        Martell, than like her father. Her choice of a bullwhip as her primary weapon exemplifies
+        this mentality. She hones her reflexes by playing a sparring game with her younger sister
+        Tyene, in which one slaps the other&#8217;s hands before they can move them; Nymeria claims she
+        has never lost this game.\n\n Nymeria dresses more femininely than her martial sister Obara,
+        though she is no less deadly. Nymeria has long flowing hair, and alluring Dornish-style
+        dresses. \n\n She is named after Nymeria, the warrior-queen of the Rhoynar who led her
+        people&#8217;s migration to Dorne one thousand years ago. The original Nymeria unified Dorne for
+        the first time, and is considered the founder of House Martell in its modern form.
+        &#8220;Nymeria&#8221; is a popular name in Dorne, much as &#8220;Brandon&#8221; is in the North, after their
+        founder Brandon the Builder. Through her father Oberyn, Nymeria Sand is actually a direct
+        descendant of the original Nymeria.</string>
+
+    <!-- Character Tyene Sand -->
+    <string name="title_character_sand_tyene">Tyene Sand</string>
+    <string name="background_character_sand_tyene">Tyene Sand is the third of the eight bastard
+        daughters of Prince Oberyn Martell, known as the &#8220;Sand Snakes&#8221;. She is also his eldest
+        daughter by his paramour, Ellaria Sand. Tyene fights using a pair of long daggers, though
+        her other signature weapon is her skill with poisons - a tactic she learned from her
+        father. Like her father, she is known to coat her blades with poisons, making a single
+        scratch lethal. \n\n Tyene can feign being soft-spoken and childlike, but this is just an
+        act to keep her enemies off guard, as she is just as fierce as her older sisters. \n\n Tyene
+        is the youngest of the four adult Sand Snakes, and more impetuous than her older sisters
+        Obara and Nymeria. Where Obara will face threats head-on (confident in her martial prowess),
+        and Nymeria will stand back and analyze the situation to make a precise strike at her
+        enemy&#8217;s weak points, Tyene tends to heedlessly charge ahead. This is exemplified by her
+        choice of daggers as her main hand-held weapon: they are quick on the draw, allowing her
+        to lash out quickly, before even her older sisters can restrain her.</string>
+
+    <!-- Character Areo Hotah -->
+    <string name="title_character_hotah_areo">Areo Hotah</string>
+    <string name="background_character_hotah_areo">Areo Hotah is originally from Norvos, one of
+        the northern Free Cities. He joined the Martell household at Sunspear along with Prince
+        Doran&#8217;s wife, a Norvoshi noblewoman. He has been a trusted servant of the Martells for
+        many years, and is renowned for his skill with his halberd. Hotah&#8217;s motto is &#8220;Serve,
+        Protect, Obey&#8221;.</string>
+
+</resources>
