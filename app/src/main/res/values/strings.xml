@@ -986,12 +986,17 @@
         strong man. Cersei sees her daughter again.</string>
 
     <!-- Season 06 Episode 02 -->
-    <string name="title_season_06_episode_02">&#8220;Episode 2&#8221;</string>
-    <string name="story_season_06_episode_02">May 1, 2016</string>
+    <string name="title_season_06_episode_02">&#8220;Home&#8221;</string>
+    <string name="story_season_06_episode_02">May 1, 2016 \n\n Bran trains with the Three-Eye Raven.
+        In King&#8217;s Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own.
+        At Castle Black, the Night&#8217;s Watch stands behind Thorne. Ramsay Bolton proposes a plan, and
+        Balon Greyjoy entertains other proposals.</string>
 
     <!-- Season 06 Episode 03 -->
-    <string name="title_season_06_episode_03">&#8220;Episode 3&#8221;</string>
-    <string name="story_season_06_episode_03">May 8, 2016</string>
+    <string name="title_season_06_episode_03">&#8220;Oathbreaker&#8221;</string>
+    <string name="story_season_06_episode_03">May 8, 2016 \n\n Daenerys meets her future. Bran meets
+        the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds the
+        answer. Ramsay gets a gift.</string>
 
     <!-- Season 06 Episode 04 -->
     <string name="title_season_06_episode_04">&#8220;Episode 4&#8221;</string>
