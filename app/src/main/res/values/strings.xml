@@ -1000,11 +1000,14 @@
 
     <!-- Season 06 Episode 04 -->
     <string name="title_season_06_episode_04">&#8220;Book of the Stranger&#8221;</string>
-    <string name="story_season_06_episode_04">May 15, 2016</string>
+    <string name="story_season_06_episode_04">May 15, 2016 \n\n Tyrion strikes a deal. Jorah and
+        Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</string>
 
     <!-- Season 06 Episode 05 -->
     <string name="title_season_06_episode_05">&#8220;Door&#8221;</string>
-    <string name="story_season_06_episode_05">May 22, 2016</string>
+    <string name="story_season_06_episode_05">May 22, 2016 \n\n Tyrion seeks a strange ally. Bran
+        learns a great deal. Brienne goes on a mission. Arya is given a chance to prove
+        herself.</string>
 
     <!-- Season 06 Episode 06 -->
     <string name="title_season_06_episode_06">&#8220;Episode 6&#8221;</string>
