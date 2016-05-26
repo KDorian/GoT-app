@@ -1011,7 +1011,9 @@
 
     <!-- Season 06 Episode 06 -->
     <string name="title_season_06_episode_06">&#8220;Blood of My Blood&#8221;</string>
-    <string name="story_season_06_episode_06">May 29, 2016</string>
+    <string name="story_season_06_episode_06">May 29, 2016 \n\n An old foe comes back into the
+        picture. Gilly meets Sam's family. Arya faces a difficult choice. Jaime faces off against
+        the High Sparrow.</string>
 
     <!-- Season 06 Episode 07 -->
     <string name="title_season_06_episode_07">&#8220;The Broken Man&#8221;</string>
