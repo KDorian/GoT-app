@@ -1022,7 +1022,8 @@
 
     <!-- Season 06 Episode 08 -->
     <string name="title_season_06_episode_08">&#8220;No One&#8221;</string>
-    <string name="story_season_06_episode_08">June 12, 2016</string>
+    <string name="story_season_06_episode_08">June 12, 2016 \n\n While Jaime weighs his options,
+        Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.</string>
 
     <!-- Season 06 Episode 09 -->
     <string name="title_season_06_episode_09">&#8220;Battle of Bastards&#8221;</string>
